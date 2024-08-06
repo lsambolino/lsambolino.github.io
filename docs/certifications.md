@@ -3,10 +3,7 @@ layout: page
 title: Certifications
 permalink: /certifications/
 ---
-
-List of certifications:
-
-| Certification                                           | Vendor                                     | Issued       | Expiration   | Credential ID          |
+| Title                                          | Vendor                                     | Issued       | Expiration   | Credential ID          |
 |---------------------------------------------------------|--------------------------------------------|--------------|--------------|------------------------|
 | Site Reliability Engineering (SRE) Foundation           | DevOps Institute                           | Jan 2024     | Jan 2026     | 24953718               |
 | ITIL® Foundation Certificate in IT Service Management   | AXELOS Global Best Practice                | Jun 2023     | Jun 2026     | GR671535215LS          |
