@@ -12,7 +12,7 @@ I started my career in academics and then I moved to the Cloud corporate world m
 In my current role I’m a Cloud Consultant with Accenture Spa.
 I hold a BSc in Telecommunications Engineering and a Master Degree in Multimedia Signal Processing and Telecommuncations Networks.
 
-Currently I live in Milan with my girlfriend and my son.
+Currently I live in Milan with my wife and my son.
 After work I enjoy to play sports as tennis and hiking.
 
 I’m skilled in some areas and I’ve learned and studied quite some stuff as well.
