@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I’m Luigi
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My current job is to design, build, deliver and maintain IT systems and their environments.
+I started my career in academics and then I moved to the Cloud corporate world mainly working on open-source cloud provisioning tools (OpenStack, Kubernetes, OpenShift).
+In my current role I’m a Cloud Consultant with Accenture Spa.
+I hold a BSc in Telecommunications Engineering and a Master Degree in Multimedia Signal Processing and Telecommuncations Networks.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently I live in Milan with my girlfriend and my son.
+After work I enjoy to play sports as tennis and hiking.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I’m skilled in some areas and I’ve learned and studied quite some stuff as well.
+My current buzzwords are: k8s devops ansible selenium openshift architecture automation integration 
