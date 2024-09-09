@@ -4,20 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
+  <!-- Link to your stylesheets to ensure layout is intact -->
   <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
-  <!-- Google AdSense code -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2553751998236484"
-          crossorigin="anonymous"></script>
 </head>
 <body>
-  <header>
-    <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
-  </footer>
+  {{ content }}
+
+  <!-- Move the AdSense Code here, at the end of the body -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2553751998236484"
+          crossorigin="anonymous"></script>
 </body>
 </html>
