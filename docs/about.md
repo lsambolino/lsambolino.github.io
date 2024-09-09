@@ -14,6 +14,3 @@ I hold a BSc in Telecommunications Engineering and a Master Degree in Multimedia
 
 Currently I live in Milan with my wife and my son.
 After work I enjoy to play sports as tennis and hiking.
-
-I’m skilled in some areas and I’ve learned and studied quite some stuff as well.
-My current buzzwords are: k8s devops ansible selenium openshift architecture automation integration 
