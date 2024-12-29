@@ -5,6 +5,7 @@ permalink: /certifications/
 ---
 | Title                                          | Vendor                                     | Issued       | Expiration   | Credential ID          |
 |---------------------------------------------------------|--------------------------------------------|--------------|--------------|------------------------|
+| Certified Kubernetes Administrator (CKA)                | Cloud Native Computing Foundation          | Dec 2024     | Nov 2026     | LF-cm0epddd8b          |
 | Site Reliability Engineering (SRE) Foundation           | DevOps Institute                           | Jan 2024     | Jan 2026     | 24953718               |
 | ITIL® Foundation Certificate in IT Service Management   | AXELOS Global Best Practice                | Jun 2023     | Jun 2026     | GR671535215LS          |
 | Migration Ambassador Foundations (Business)             | Amazon Web Services (AWS)                  | Nov 2022     |              |                        |
