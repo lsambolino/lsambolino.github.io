@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Kubernetes TLS Expiration: Hidden time-bomb causing massive disruption"
 date:   2024-09-10 19:30:12 +0200
 categories: kubernetes
