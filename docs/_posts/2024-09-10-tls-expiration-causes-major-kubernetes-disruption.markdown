@@ -49,16 +49,16 @@ As we peeled back the layers of the problem, we discovered a tangled web of inte
 Amidst the chaos, we also stumbled upon the apiserver YAML configuration, which was a mess of outdated and unnecessary lines. It was like finding clutter in a once-organized workspace—a distraction that needed to be cleared away to see the problem clearly.
 
 Fix:
-1. Renewing the Certificates
+4. Renewing the Certificates
 
 The apiserver certificate had expired after the default time (1 year).
 With the root causes identified, we set to work on renewing the expired certificates. It was a meticulous process, ensuring that the new certificates were correctly issued and integrated into the cluster. Watching the certificates come back to life felt like watching a crucial piece of machinery start up again.
 
-2. Tidying Up the Configuration
+5. Tidying Up the Configuration
 
 Next, we tackled the cluttered apiserver YAML file. We carefully stripped away the obsolete configurations, simplifying and streamlining the setup. It was a refreshing change—like clearing out a junk drawer and finding everything you need right where it belongs.
 
-3. Testing and Reassurance
+6. Testing and Reassurance
 
 With the changes in place, we ran a series of tests to ensure everything was functioning smoothly. Each successful test was a small victory, confirming that we had restored normal operations and fixed the interruptions.
 
