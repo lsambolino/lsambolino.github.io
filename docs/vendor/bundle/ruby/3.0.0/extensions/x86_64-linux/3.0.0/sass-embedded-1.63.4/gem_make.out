@@ -1,5 +1,8 @@
-current directory: /mnt/c/Temp/lsambolino.github.io/docs/vendor/bundle/ruby/3.0.0/gems/sass-embedded-1.63.4/ext/sass
-/usr/bin/ruby3.0 -I/usr/lib/ruby/vendor_ruby -rrubygems /mnt/c/Temp/lsambolino.github.io/docs/vendor/bundle/ruby/3.0.0/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/mnt/c/Temp/lsambolino.github.io/docs/vendor/bundle/ruby/3.0.0/extensions/x86_64-linux/3.0.0/sass-embedded-1.63.4 RUBYLIBDIR\=/mnt/c/Temp/lsambolino.github.io/docs/vendor/bundle/ruby/3.0.0/extensions/x86_64-linux/3.0.0/sass-embedded-1.63.4
+current directory: /home/lsambolino/temp/lsambolino.github.io/docs/vendor/bundle/ruby/3.0.0/gems/sass-embedded-1.63.4/ext/sass
+/usr/bin/ruby3.0 -I/usr/lib/ruby/vendor_ruby -rrubygems /home/lsambolino/temp/lsambolino.github.io/docs/vendor/bundle/ruby/3.0.0/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/home/lsambolino/temp/lsambolino.github.io/docs/vendor/bundle/ruby/3.0.0/extensions/x86_64-linux/3.0.0/sass-embedded-1.63.4 RUBYLIBDIR\=/home/lsambolino/temp/lsambolino.github.io/docs/vendor/bundle/ruby/3.0.0/extensions/x86_64-linux/3.0.0/sass-embedded-1.63.4
+Ignoring eventmachine-1.2.7 because its extensions are not built. Try: gem pristine eventmachine --version 1.2.7
+Ignoring ffi-1.15.5 because its extensions are not built. Try: gem pristine ffi --version 1.15.5
+Ignoring http_parser.rb-0.8.0 because its extensions are not built. Try: gem pristine http_parser.rb --version 0.8.0
 fetch https://github.com/sass/dart-sass/releases/download/1.63.4/dart-sass-1.63.4-linux-x64.tar.gz
 tar -vxC . -f dart-sass-1.63.4-linux-x64.tar.gz --no-same-owner --no-same-permissions
 mkdir -p .
