@@ -15,7 +15,7 @@ Unveiling the Culprits
 
 Our first clue came from an unexpected source: expired TLS certificates. In the world of Kubernetes, these certificates are the unsung heroes of secure communication. When they expire, the whole system's trust network falters. We quickly realized that this was not just a minor hiccup but a significant roadblock.
 
-First, we sorted to 'kubeadm certs check-expiration' command, the output was something along the lines:
+First, we sorted to **'kubeadm certs check-expiration'** command:
 
 {% highlight bash %}
 CERTIFICATE                EXPIRES                  RESIDUAL TIME   CERTIFICATE AUTHORITY   EXTERNALLY MANAGED
@@ -48,9 +48,10 @@ As we peeled back the layers of the problem, we discovered a tangled web of inte
 
 Amidst the chaos, we also stumbled upon the apiserver YAML configuration, which was a mess of outdated and unnecessary lines. It was like finding clutter in a once-organized workspace—a distraction that needed to be cleared away to see the problem clearly.
 
-The Fix: A Step-by-Step Triumph
+Fix:
 1. Renewing the Certificates
 
+The apiserver certificate had expired after the default time (1 year).
 With the root causes identified, we set to work on renewing the expired certificates. It was a meticulous process, ensuring that the new certificates were correctly issued and integrated into the cluster. Watching the certificates come back to life felt like watching a crucial piece of machinery start up again.
 
 2. Tidying Up the Configuration
