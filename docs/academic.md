@@ -1,18 +1,16 @@
 ---
-layout: page
+layout: default
 title: Academic
 permalink: /academic/
 ---
-Laurea
----
+# Laurea
+
 Master Degree in Multimedia Signal Processing & Telecommunications Network
 
 Bachelor Degree in Ingegneria delle Telecomunicazioni
 
+# Publications
 
-
-Publications
----
 Green Precision Time Protocol Router using Dynamic Frequency Scaling
 Human Centered Computing - hcc.coventry.ac.uk · Jan 7, 2016
 
