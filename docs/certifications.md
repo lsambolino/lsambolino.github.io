@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Certifications
 permalink: /certifications/
 ---
 | Title                                          | Vendor                                     | Issued       | Expiration   | Credential ID          |
