@@ -52,7 +52,7 @@ I'm always interested in discussing cloud architecture, DevOps practices, Kubern
 
 ## 💬 What I Can Help With
 
-<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0;">
+<div markdown="1" style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0;">
 
 ### ☁️ Cloud Architecture & Migration
 - Multi-cloud strategy and implementation
