@@ -3,6 +3,7 @@ layout: default
 title:  "Kubernetes TLS Expiration: Hidden time-bomb causing massive disruption"
 date:   2024-09-10 19:30:12 +0200
 categories: kubernetes
+lang: en
 ---
 Picture this: a routine day in our tech operations suddenly turns into a high-stakes race against time. Our development team is in the middle of crucial deployments when they hit a wall—an unexpected service interruption that threatens to derail their workflow. What follows is a journey filled with troubleshooting, teamwork, and a few surprising revelations.
 

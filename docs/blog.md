@@ -15,6 +15,7 @@ Sharing experiences, insights, and lessons learned from working with cloud infra
 ## 📚 All Posts
 
 {% for post in site.posts %}
+{% unless post.lang == 'it' %}
 <div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 25px 0; border-radius: 5px;">
   <h2 style="margin-top: 0;">
     <a href="{{ post.url }}" style="color: #333; text-decoration: none;">{{ post.title }}</a>
@@ -30,6 +31,7 @@ Sharing experiences, insights, and lessons learned from working with cloud infra
   {% endif %}
   <a href="{{ post.url }}" style="color: #667eea; font-weight: 600; text-decoration: none;">Read more →</a>
 </div>
+{% endunless %}
 {% endfor %}
 
 ---
