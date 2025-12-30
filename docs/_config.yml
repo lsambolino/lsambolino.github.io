@@ -13,20 +13,80 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: Luigi Sambolino
 email: lsambolino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sharing experiences and insights on cloud and modern infrastructures.
+  Cloud & DevOps Engineer | Building resilient systems with Kubernetes, OpenShift, and cloud-native technologies.
+  Sharing experiences and insights on cloud infrastructure and modern DevOps practices.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lsambolino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+#twitter_username: 
 github_username:  lsambolino
+linkedin_username: luigi-sambolino
+
+# Author settings
+author:
+  name: Luigi Sambolino
+  email: lsambolino@gmail.com
+  bio: "Cloud & DevOps Engineer specializing in Kubernetes, OpenShift, and cloud infrastructure. Passionate about building scalable, resilient systems."
+  location: "Milan, Italy"
+  avatar: "/assets/images/profile.jpg"
+
+# SEO settings
+logo: /assets/images/profile.jpg
+social:
+  name: Luigi Sambolino
+  links:
+    - https://github.com/lsambolino
+    - https://www.linkedin.com/in/luigi-sambolino
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - skills.md
+  - certifications.md
+  - blog.md
+  - contact.md
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Luigi Sambolino"
+      show_excerpts: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
