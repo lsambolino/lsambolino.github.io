@@ -12,7 +12,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 ## ☸️ Container Orchestration & Cloud Native
 
-<div style="background: linear-gradient(135deg, #326ce5 0%, #7aa3e5 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #326ce5 0%, #7aa3e5 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;" markdown="1">
 
 ### Expert Level
 - **Kubernetes** - Cluster design, deployment, management, troubleshooting
@@ -35,7 +35,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 ## ☁️ Cloud Platforms
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;" markdown="1">
 
 <div style="background: #FF9900; color: white; padding: 20px; border-radius: 10px;">
   <h3 style="margin-top: 0;">☁️ Amazon Web Services</h3>
@@ -76,7 +76,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 ## 🛠️ Infrastructure as Code & Automation
 
-<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;">
+<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Provisioning & Configuration
 - **Terraform** - Multi-cloud infrastructure provisioning
@@ -102,7 +102,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 ## 🔒 Security & Networking
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;" markdown="1">
 
 ### Network Virtualization
 - **VMware NSX-T** - Software-defined networking
@@ -126,7 +126,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 ## 📊 Observability & Monitoring
 
-<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;">
+<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Metrics & Monitoring
 - **Prometheus** - Metrics collection and alerting
@@ -152,7 +152,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 ## 🐳 Containers & Runtimes
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;" markdown="1">
 
 <div style="flex: 1; min-width: 250px; background: #2496ed; color: white; padding: 20px; border-radius: 10px;">
   <h3 style="margin-top: 0;">🐳 Docker</h3>
@@ -180,7 +180,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 ## 💻 Operating Systems & Platforms
 
-<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;">
+<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Linux Expertise
 - **RHEL/CentOS** - Enterprise Linux administration
@@ -199,7 +199,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 ## 🎯 Methodologies & Practices
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;" markdown="1">
 
 - ✅ **Site Reliability Engineering (SRE)** - DevOps Institute Certified
 - ✅ **DevOps & Agile** - CI/CD, automation, collaboration
