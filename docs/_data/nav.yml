@@ -1,0 +1,31 @@
+en:
+  - label: Home
+    url: /
+  - label: About
+    url: /about/
+  - label: Projects
+    url: /projects/
+  - label: Skills
+    url: /skills/
+  - label: Certifications
+    url: /certifications/
+  - label: Blog
+    url: /blog/
+  - label: Contact
+    url: /contact/
+
+it:
+  - label: Home
+    url: /it/
+  - label: Chi sono
+    url: /it/about/
+  - label: Progetti
+    url: /it/projects/
+  - label: Competenze
+    url: /it/skills/
+  - label: Certificazioni
+    url: /it/certifications/
+  - label: Blog
+    url: /it/blog/
+  - label: Contatti
+    url: /it/contact/

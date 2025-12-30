@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+alternate_url: /it/about/
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 40px; flex-wrap: wrap;">

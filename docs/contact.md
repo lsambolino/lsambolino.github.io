@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+alternate_url: /it/contact/
 ---
 
 # Let's Connect

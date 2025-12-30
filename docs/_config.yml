@@ -18,6 +18,11 @@ email: lsambolino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cloud & DevOps Engineer | Building resilient systems with Kubernetes, OpenShift, and cloud-native technologies.
   Sharing experiences and insights on cloud infrastructure and modern DevOps practices.
+lang: en
+default_lang: en
+languages:
+  - en
+  - it
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lsambolino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
@@ -77,16 +82,20 @@ defaults:
       layout: "post"
       author: "Luigi Sambolino"
       show_excerpts: true
+      lang: en
+      alternate_url: /it/
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
+      lang: en
   - scope:
       path: ""
       type: "projects"
     values:
       layout: "page"
+      lang: en
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

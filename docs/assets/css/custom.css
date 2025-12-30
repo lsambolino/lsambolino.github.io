@@ -407,3 +407,19 @@ img {
   border-radius: 5px;
   margin: 15px 0;
 }
+
+/* Language toggle pill */
+.lang-toggle {
+  border: 1px solid #667eea;
+  border-radius: 20px;
+  padding: 6px 12px;
+  font-weight: 700;
+  margin-left: 10px;
+}
+
+@media (max-width: 600px) {
+  .lang-toggle {
+    display: inline-block;
+    margin-top: 10px;
+  }
+}

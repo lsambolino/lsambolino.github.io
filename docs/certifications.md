@@ -2,6 +2,7 @@
 layout: page
 permalink: /certifications/
 title: Certifications
+alternate_url: /it/certifications/
 ---
 
 # Professional Certifications

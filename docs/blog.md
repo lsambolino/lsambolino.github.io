@@ -2,6 +2,8 @@
 layout: page
 title: Blog
 permalink: /blog/
+alternate_url: /it/blog/
+alternate_url: /it/blog/
 ---
 
 # Technical Blog

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+alternate_url: /it/
 ---
 
 <div class="hero-section" style="text-align: center; padding: 60px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px; margin-bottom: 40px;">

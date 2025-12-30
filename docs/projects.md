@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+alternate_url: /it/projects/
 ---
 
 # Featured Projects

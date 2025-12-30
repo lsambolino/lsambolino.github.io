@@ -2,6 +2,7 @@
 layout: page
 title: Skills
 permalink: /skills/
+alternate_url: /it/skills/
 ---
 
 # Technical Skills & Expertise
