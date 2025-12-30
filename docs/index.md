@@ -4,7 +4,6 @@ title: Home
 ---
 
 <div class="hero-section" style="text-align: center; padding: 60px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px; margin-bottom: 40px;">
-  <img src="/assets/images/profile.jpg" alt="Luigi Sambolino" style="width: 180px; height: 180px; border-radius: 50%; border: 5px solid white; margin-bottom: 20px; object-fit: cover; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
   <h1 style="margin: 0; font-size: 2.5em; font-weight: 700;">Luigi Sambolino</h1>
   <p style="font-size: 1.4em; margin: 15px 0; opacity: 0.95; font-weight: 300;">Cloud & DevOps Engineer</p>
   <p style="font-size: 1.1em; max-width: 700px; margin: 20px auto; line-height: 1.6; opacity: 0.9;">Building resilient, scalable systems with Kubernetes, OpenShift, and cloud-native technologies. Passionate about infrastructure automation, SRE practices, and sharing knowledge.</p>
