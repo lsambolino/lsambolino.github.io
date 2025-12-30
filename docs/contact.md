@@ -142,9 +142,6 @@ To help me provide the best response, please include:
     <a href="mailto:lsambolino@gmail.com" style="display: inline-block; padding: 15px 40px; background: #667eea; color: white; text-decoration: none; border-radius: 30px; font-weight: 700; margin: 10px; transition: transform 0.2s;">
       Send an Email
     </a>
-    <a href="https://www.linkedin.com/in/luigi-sambolino" target="_blank" style="display: inline-block; padding: 15px 40px; background: #0A66C2; color: white; text-decoration: none; border-radius: 30px; font-weight: 700; margin: 10px; transition: transform 0.2s;">
-      Connect on LinkedIn
-    </a>
   </div>
 </div>
 
