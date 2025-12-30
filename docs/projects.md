@@ -12,7 +12,7 @@ Here are some highlighted projects that showcase my expertise in cloud infrastru
 
 ## 🔧 Kubernetes TLS Certificate Automation
 
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;">
+<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Problem
 Manual TLS certificate management in Kubernetes clusters led to unexpected expirations causing major service disruptions, as documented in my [blog post about a critical incident](/kubernetes/2024/09/10/tls-expiration-causes-major-kubernetes-disruption.html).
@@ -42,7 +42,7 @@ Implemented automated certificate rotation system using:
 
 ## ☁️ Multi-Cloud Infrastructure Automation
 
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;">
+<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Problem
 Enterprise needed consistent infrastructure deployment across AWS, Azure, and GCP with minimal manual intervention and maximum reproducibility.
@@ -69,7 +69,7 @@ Designed and implemented Infrastructure-as-Code framework:
 
 ## 🐳 Container Platform Migration
 
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;">
+<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Problem
 Legacy applications running on virtual machines needed containerization and migration to OpenShift for improved scalability and maintainability.
@@ -96,7 +96,7 @@ Led end-to-end migration project:
 
 ## 📊 SRE Observability Platform
 
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;">
+<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Problem
 Lack of centralized monitoring and alerting made it difficult to maintain SLOs and respond to incidents effectively.
@@ -123,7 +123,7 @@ Built comprehensive observability platform:
 
 ## 🔐 Zero-Trust Network Security Implementation
 
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;">
+<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Problem
 Traditional perimeter-based security model insufficient for modern cloud-native applications and remote workforce.
