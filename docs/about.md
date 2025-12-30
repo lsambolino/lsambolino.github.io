@@ -66,6 +66,5 @@ I'm always interested in discussing cloud architecture, DevOps practices, and te
 
 - **Email**: [lsambolino@gmail.com](mailto:lsambolino@gmail.com)
 - **GitHub**: [@lsambolino](https://github.com/lsambolino)
-- **LinkedIn**: [luigi-sambolino](https://www.linkedin.com/in/luigi-sambolino)
 
 [View my projects →](/projects) | [Read my blog →](/blog) | [Get in touch →](/contact)
