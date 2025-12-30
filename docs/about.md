@@ -7,8 +7,7 @@ permalink: /about/
 <div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 40px; flex-wrap: wrap;">
   <img src="/assets/images/profile.jpg" alt="Luigi Sambolino" style="width: 250px; height: 250px; border-radius: 15px; object-fit: cover; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
   <div style="flex: 1; min-width: 300px;">
-    <h2 style="margin-top: 0;">👋 Hi, I'm Luigi</h2>
-    <p style="font-size: 1.1em; line-height: 1.7;">
+    <p style="font-size: 1.1em; line-height: 1.7; margin-top: 0;">
       I'm a <strong>Cloud & DevOps Engineer</strong> passionate about building resilient, scalable systems using cloud-native technologies. Currently working as a Cloud Consultant with <strong>Accenture Spa</strong> in Milan, Italy.
     </p>
     <p style="font-size: 1.1em; line-height: 1.7;">
