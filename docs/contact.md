@@ -46,16 +46,6 @@ I'm always interested in discussing cloud architecture, DevOps practices, Kubern
   </p>
 </div>
 
-<div style="background: #f8f9fa; padding: 25px; border-radius: 10px; border-left: 4px solid #0A66C2;">
-  <h3 style="margin-top: 0;">💼 LinkedIn</h3>
-  <p style="font-size: 1.1em;">
-    <a href="https://www.linkedin.com/in/luigi-sambolino" target="_blank" style="color: #0A66C2; text-decoration: none; font-weight: 600;">luigi-sambolino</a>
-  </p>
-  <p style="color: #666; margin-top: 10px;">
-    Connect professionally and stay updated on my career journey.
-  </p>
-</div>
-
 </div>
 
 ---
