@@ -41,15 +41,11 @@ front-proxy-ca          Dec 28, 2029 23:36 UTC   9y              no
 
 3. **Configuration Complexity.** The apiserver YAML configuration contained obsolete parameters and unnecessary configurations that complicated troubleshooting efforts and delayed root cause identification.
 
-## Remediation Steps
+4. **Certificate Renewal.** All expired certificates were renewed using the standard Kubernetes certificate renewal procedures. The apiserver certificate, which had expired after the default one-year validity period, was regenerated and redeployed.
 
-The following actions were taken to resolve the incident:
+5. **Configuration Optimization.** The apiserver YAML configuration was reviewed and cleaned, removing deprecated parameters and unnecessary entries to improve maintainability and reduce future troubleshooting complexity.
 
-1. **Certificate Renewal.** All expired certificates were renewed using the standard Kubernetes certificate renewal procedures. The apiserver certificate, which had expired after the default one-year validity period, was regenerated and redeployed.
-
-2. **Configuration Optimization.** The apiserver YAML configuration was reviewed and cleaned, removing deprecated parameters and unnecessary entries to improve maintainability and reduce future troubleshooting complexity.
-
-3. **Validation and Testing.** Comprehensive testing was performed to verify that all cluster components successfully established secure communication and that normal operations were restored.
+6. **Validation and Testing.** Comprehensive testing was performed to verify that all cluster components successfully established secure communication and that normal operations were restored.
 
 ## Key Takeaways
 
