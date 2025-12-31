@@ -215,11 +215,10 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 
 I'm committed to staying current with rapidly evolving cloud technologies:
 
-- 📖 Regular participation in CNCF community events and webinars
 - 🏆 Maintaining active certifications across multiple platforms
 - 💡 Contributing to open-source projects and documentation
 - ✍️ Writing technical blog posts and case studies
-- 🎓 Exploring emerging technologies (eBPF, WebAssembly, Platform Engineering)
+- 🎓 Exploring emerging technologies
 
 ---
 

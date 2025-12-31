@@ -208,11 +208,10 @@ Panoramica delle mie capacità su cloud, Kubernetes, DevOps, sicurezza e osserva
 
 ## 📚 Apprendimento continuo
 
-- Partecipazione a eventi e webinar CNCF
 - Mantenimento delle certificazioni attive
 - Contributi a progetti open-source
 - Articoli tecnici e case study
-- Interesse per eBPF, WebAssembly, Platform Engineering
+- Interesse per tecnologie emergenti
 
 ---
 
