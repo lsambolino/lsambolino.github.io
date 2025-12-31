@@ -6,8 +6,6 @@ lang: it
 alternate_url: /academic/
 ---
 
-# Formazione Accademica
-
 Formazione e contributi di ricerca in telecomunicazioni, elaborazione del segnale multimediale e cloud computing.
 
 ---

@@ -5,8 +5,6 @@ permalink: /academic/
 alternate_url: /it/academic/
 ---
 
-# Academic Background
-
 Education and research contributions in telecommunications, multimedia signal processing, and cloud computing.
 
 ---
