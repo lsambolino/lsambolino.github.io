@@ -17,6 +17,59 @@ Formazione e contributi di ricerca in telecomunicazioni, elaborazione del segnal
 | 🎓 | Laurea Magistrale | Università degli Studi di Genova | Multimedia Signal Processing & Telecommunications Networks | 2013 |
 | 🎓 | Laurea Triennale | Università degli Studi di Genova | Ingegneria delle Telecomunicazioni | 2010 |
 
+### Curriculum Magistrale
+
+<details>
+<summary><strong>Visualizza Corsi Magistrali</strong> (120 ECTS, Voto: 102/110)</summary>
+
+- Computer Graphics
+- Digital Communications
+- Mathematics and Operations Research
+- Telematics and Telecommunication Networks Security
+- Economics and Management for Telecommunications
+- Radiocommunication Systems
+- Remote Sensing and Electromagnetic Propagation
+- Array Signal Processing
+- Cognitive Telecommunication Systems
+- Architectures and Applications for TLC Networks
+- Signal and Image Processing and Recognition
+- Sensors and Measurement & Electronics for Cyber Security
+- Research Methodology
+- Tesi Magistrale: "Design and Development of an Open-Source Platform for Software-Defined Green Routers"
+
+</details>
+
+### Curriculum Triennale
+
+<details>
+<summary><strong>Visualizza Corsi Triennali</strong> (180 ECTS)</summary>
+
+- Elettronica dei Sistemi Digitali
+- Fisica Generale
+- Fondamenti di Informatica
+- Lingua Inglese
+- Chimica 1
+- Matematica 1
+- Matematica II
+- Matematica III
+- Elettrotecnica 1
+- Campi Elettromagnetici
+- Calcolatori Elettronici
+- Comunicazioni Elettriche
+- Elettronica
+- Teoria dei Sistemi
+- Antenne
+- Economia e Organizzazione Aziendale
+- Controlli Automatici
+- Elaborazione Numerica dei Segnali
+- Ingegneria del Software
+- Reti di Telecomunicazione
+- Sistemi di Telecomunicazione
+- Prova Finale
+- Tirocinio
+
+</details>
+
 ---
 
 ## 📚 Pubblicazioni
