@@ -22,19 +22,19 @@ Formazione e contributi di ricerca in telecomunicazioni, elaborazione del segnal
 <details>
 <summary><strong>Visualizza Corsi Magistrali</strong> (120 ECTS, Voto: 102/110)</summary>
 
-1. Computer Graphics
-2. Digital Communications
-3. Mathematics and Operations Research
-4. Telematics and Telecommunication Networks Security
-5. Economics and Management for Telecommunications
-6. Radiocommunication Systems
-7. Remote Sensing and Electromagnetic Propagation
-8. Array Signal Processing
-9. Cognitive Telecommunication Systems
-10. Architectures and Applications for TLC Networks
-11. Signal and Image Processing and Recognition
-12. Sensors and Measurement & Electronics for Cyber Security
-13. Research Methodology
+1. Computer Graphics<br>
+2. Digital Communications<br>
+3. Mathematics and Operations Research<br>
+4. Telematics and Telecommunication Networks Security<br>
+5. Economics and Management for Telecommunications<br>
+6. Radiocommunication Systems<br>
+7. Remote Sensing and Electromagnetic Propagation<br>
+8. Array Signal Processing<br>
+9. Cognitive Telecommunication Systems<br>
+10. Architectures and Applications for TLC Networks<br>
+11. Signal and Image Processing and Recognition<br>
+12. Sensors and Measurement & Electronics for Cyber Security<br>
+13. Research Methodology<br>
 14. Tesi Magistrale: "Design and Development of an Open-Source Platform for Software-Defined Green Routers"
 
 </details>
@@ -44,28 +44,28 @@ Formazione e contributi di ricerca in telecomunicazioni, elaborazione del segnal
 <details>
 <summary><strong>Visualizza Corsi Triennali</strong> (180 ECTS)</summary>
 
-1. Elettronica dei Sistemi Digitali
-2. Fisica Generale
-3. Fondamenti di Informatica
-4. Lingua Inglese
-5. Chimica 1
-6. Matematica 1
-7. Matematica II
-8. Matematica III
-9. Elettrotecnica 1
-10. Campi Elettromagnetici
-11. Calcolatori Elettronici
-12. Comunicazioni Elettriche
-13. Elettronica
-14. Teoria dei Sistemi
-15. Antenne
-16. Economia e Organizzazione Aziendale
-17. Controlli Automatici
-18. Elaborazione Numerica dei Segnali
-19. Ingegneria del Software
-20. Reti di Telecomunicazione
-21. Sistemi di Telecomunicazione
-22. Prova Finale
+1. Elettronica dei Sistemi Digitali<br>
+2. Fisica Generale<br>
+3. Fondamenti di Informatica<br>
+4. Lingua Inglese<br>
+5. Chimica 1<br>
+6. Matematica 1<br>
+7. Matematica II<br>
+8. Matematica III<br>
+9. Elettrotecnica 1<br>
+10. Campi Elettromagnetici<br>
+11. Calcolatori Elettronici<br>
+12. Comunicazioni Elettriche<br>
+13. Elettronica<br>
+14. Teoria dei Sistemi<br>
+15. Antenne<br>
+16. Economia e Organizzazione Aziendale<br>
+17. Controlli Automatici<br>
+18. Elaborazione Numerica dei Segnali<br>
+19. Ingegneria del Software<br>
+20. Reti di Telecomunicazione<br>
+21. Sistemi di Telecomunicazione<br>
+22. Prova Finale<br>
 23. Tirocinio
 
 </details>
