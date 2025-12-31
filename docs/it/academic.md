@@ -65,7 +65,7 @@ Formazione e contributi di ricerca in telecomunicazioni, elaborazione del segnal
 19. Ingegneria del Software<br>
 20. Reti di Telecomunicazione<br>
 21. Sistemi di Telecomunicazione<br>
-22. Prova Finale<br>
+22. Tesi Triennale: "Studio e realizzazione di un sistema opportunistico di riconoscimento di contenuti multimediali mediante Smartphone"<br>
 23. Tirocinio
 
 </details>

@@ -64,7 +64,7 @@ Education and research contributions in telecommunications, multimedia signal pr
 19. Ingegneria del Software<br>
 20. Reti di Telecomunicazione<br>
 21. Sistemi di Telecomunicazione<br>
-22. Prova Finale<br>
+22. Bachelor Thesis: "Design and Implementation of an Opportunistic System for Multimedia Content Recognition via Smartphone"<br>
 23. Tirocinio
 
 </details>
