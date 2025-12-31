@@ -9,6 +9,8 @@ en:
     url: /skills/
   - label: Certifications
     url: /certifications/
+  - label: Academic
+    url: /academic/
   - label: Blog
     url: /blog/
   - label: Contact
@@ -25,6 +27,8 @@ it:
     url: /it/skills/
   - label: Certificazioni
     url: /it/certifications/
+  - label: Formazione
+    url: /it/academic/
   - label: Blog
     url: /it/blog/
   - label: Contatti

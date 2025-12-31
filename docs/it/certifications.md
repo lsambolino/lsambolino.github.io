@@ -6,8 +6,6 @@ lang: it
 alternate_url: /certifications/
 ---
 
-# Certificazioni professionali
-
 Percorso continuo di formazione con certificazioni riconosciute. Ordine cronologico (più recenti in alto). I titoli restano in lingua originale.
 
 |  | Certificazione | Ente | Emesso | Scadenza | Note / ID |

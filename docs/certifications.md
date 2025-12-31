@@ -5,8 +5,6 @@ title: Certifications
 alternate_url: /it/certifications/
 ---
 
-# Professional Certifications
-
 Continuous learning and professional development through industry-recognized certifications. Chronological order (latest first) with a light touch of color and icons where it helps scan quickly.
 
 |  | Certification | Issuer | Issued | Expires | Notes / ID |
