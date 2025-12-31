@@ -416,11 +416,19 @@ img {
   padding: 6px 12px;
   font-weight: 700;
   margin-left: 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.site-nav .trigger {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0;
 }
 
 @media (max-width: 600px) {
   .lang-toggle {
-    display: inline-block;
     margin-top: 10px;
   }
 }
