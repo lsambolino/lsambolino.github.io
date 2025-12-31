@@ -5,8 +5,6 @@ permalink: /projects/
 alternate_url: /it/projects/
 ---
 
-# Featured Projects
-
 Here are some highlighted projects that showcase my expertise in cloud infrastructure, Kubernetes, and DevOps engineering.
 
 ---
@@ -41,55 +39,59 @@ Implemented automated certificate rotation system using:
 
 ---
 
-## ☁️ Multi-Cloud Infrastructure Automation
+## 📦 Datacenter Assessment Engine
 
 <div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;" markdown="1">
 
-### Problem
-Enterprise needed consistent infrastructure deployment across AWS, Azure, and GCP with minimal manual intervention and maximum reproducibility.
+### Overview
+Ansible-based datacenter assessment engine that provides automated discovery and analysis of infrastructure components across multiple target systems.
 
 ### Solution
-Designed and implemented Infrastructure-as-Code framework:
-- **Terraform modules** for multi-cloud provisioning
-- **Ansible playbooks** for configuration management
-- **CI/CD pipelines** for automated deployments
-- **Policy-as-Code** with OPA for compliance
+- **Automated discovery** of datacenter resources
+- **Custom target lists** via Ansible inventory
+- **Comprehensive reporting** of infrastructure baseline
+- **Shell scripting** for data extraction and analysis
 
 ### Technologies
-`Terraform` `Ansible` `AWS` `Azure` `GCP` `Jenkins` `GitLab CI` `OPA`
+`Ansible` `Shell` `Linux` `Infrastructure Assessment` `Automation`
 
 ### Impact
-- ✅ 80% reduction in deployment time
-- ✅ Consistent infrastructure across 3 cloud providers
-- ✅ Automated compliance checking
-- ✅ Self-service infrastructure for development teams
+- ✅ Rapid datacenter infrastructure discovery
+- ✅ Baseline assessment for migration planning
+- ✅ Automated documentation generation
+- ✅ Reduced manual audit time
+
+### Links
+- 👁️ [View on GitHub →](https://github.com/lsambolino/datacenter_assessment)
 
 </div>
 
 ---
 
-## 🐳 Container Platform Migration
+## 🌐 DROP - Distributed Router Project
 
 <div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
-### Problem
-Legacy applications running on virtual machines needed containerization and migration to OpenShift for improved scalability and maintainability.
+### Overview
+The Distributed SW ROuter Project (DROP) enables cooperative middleware for distributed IP-router control and management, allowing logical network nodes to be built through distributed collaboration.
 
 ### Solution
-Led end-to-end migration project:
-- **Application containerization** with Docker and buildah
-- **Helm charts** for application packaging
-- **Service mesh integration** with Istio
-- **Observability stack** with Prometheus, Grafana, and Jaeger
+- **Distributed router control** and management middleware
+- **Cooperative networking** paradigm
+- **JavaScript-based** implementation
+- **Logical network node** abstraction
 
 ### Technologies
-`OpenShift` `Kubernetes` `Docker` `Helm` `Istio` `Prometheus` `Grafana` `Jaeger`
+`JavaScript` `Networking` `Distributed Systems` `SDN`
 
 ### Impact
-- ✅ Migrated 50+ applications to containers
-- ✅ Improved deployment frequency by 10x
-- ✅ Reduced infrastructure costs by 40%
-- ✅ Enhanced application observability and debugging
+- ✅ Novel approach to distributed router management
+- ✅ Flexible network topology creation
+- ✅ Middleware abstraction for router control
+- ✅ Foundation for software-defined networking research
+
+### Links
+- 👁️ [View on GitHub →](https://github.com/lsambolino/dropgit)
 
 </div>
 
@@ -117,33 +119,6 @@ Built comprehensive observability platform:
 - ✅ MTTR reduced by 60%
 - ✅ SLO visibility for all critical services
 - ✅ Proactive alerting preventing customer impact
-
-</div>
-
----
-
-## 🔐 Zero-Trust Network Security Implementation
-
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
-
-### Problem
-Traditional perimeter-based security model insufficient for modern cloud-native applications and remote workforce.
-
-### Solution
-Implemented zero-trust architecture:
-- **Service mesh** (Istio) for mTLS and service-to-service authentication
-- **Identity-based access** with OAuth2/OIDC
-- **Network segmentation** with VMware NSX-T
-- **Policy enforcement** at every layer
-
-### Technologies
-`Istio` `Envoy` `OAuth2` `OIDC` `VMware NSX-T` `Kubernetes Network Policies`
-
-### Impact
-- ✅ Eliminated lateral movement attack vectors
-- ✅ Granular access control for all services
-- ✅ Compliance with security frameworks (ISO 27001, SOC 2)
-- ✅ Improved audit trail and visibility
 
 </div>
 

@@ -6,8 +6,6 @@ lang: it
 alternate_url: /projects/
 ---
 
-# Progetti in evidenza
-
 Alcuni progetti che mostrano la mia esperienza su infrastrutture cloud, Kubernetes e ingegneria DevOps.
 
 ---
@@ -41,53 +39,59 @@ Gestione manuale dei certificati TLS nei cluster Kubernetes con scadenze imprevi
 
 ---
 
-## ☁️ Automazione infrastruttura multi-cloud
+## 📦 Datacenter Assessment Engine
 
 <div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;" markdown="1">
 
-### Problema
-Un'azienda enterprise doveva distribuire infrastrutture coerenti su AWS, Azure e GCP riducendo al minimo l'intervento manuale.
+### Panoramica
+Motore di assessment datacenter basato su Ansible per discovery e analisi automatica dei componenti infrastrutturali.
 
 ### Soluzione
-- **Moduli Terraform** riutilizzabili per il provisioning multi-cloud
-- **Playbook Ansible** per la configurazione
-- **Pipeline CI/CD** per deployment automatici
-- **Policy-as-Code** con OPA per la conformità
+- **Discovery automatico** delle risorse datacenter
+- **Target list personalizzabili** via Ansible inventory
+- **Reporting completo** della baseline infrastrutturale
+- **Shell scripting** per estrazione e analisi dati
 
 ### Tecnologie
-`Terraform` `Ansible` `AWS` `Azure` `GCP` `Jenkins` `GitLab CI` `OPA`
+`Ansible` `Shell` `Linux` `Infrastructure Assessment` `Automation`
 
 ### Impatto
-- ✅ -80% sul tempo di deployment
-- ✅ Infrastrutture coerenti sui 3 cloud
-- ✅ Conformità automatizzata
-- ✅ Self-service per i team di sviluppo
+- ✅ Discovery rapido dell'infrastruttura datacenter
+- ✅ Assessment baseline per pianificare migrazioni
+- ✅ Generazione automatica documentazione
+- ✅ Riduzione tempo di audit manuale
+
+### Link
+- 👁️ [Vedi su GitHub →](https://github.com/lsambolino/datacenter_assessment)
 
 </div>
 
 ---
 
-## 🐳 Migrazione a piattaforma container
+## 🌐 DROP - Distributed Router Project
 
 <div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
-### Problema
-Applicazioni legacy su VM da containerizzare e migrare su OpenShift per migliorare scalabilità e manutenzione.
+### Panoramica
+Il Distributed SW ROuter Project (DROP) abilita un middleware cooperativo per il controllo e la gestione distribuita di router IP, permettendo la costruzione di nodi di rete logici attraverso collaborazione distribuita.
 
 ### Soluzione
-- **Containerizzazione** con Docker e buildah
-- **Helm chart** per il packaging
-- **Service mesh** con Istio
-- **Osservabilità** con Prometheus, Grafana e Jaeger
+- **Controllo router distribuito** e middleware di gestione
+- **Paradigma networking cooperativo**
+- **Implementazione JavaScript**
+- **Astrazione nodi di rete logici**
 
 ### Tecnologie
-`OpenShift` `Kubernetes` `Docker` `Helm` `Istio` `Prometheus` `Grafana` `Jaeger`
+`JavaScript` `Networking` `Distributed Systems` `SDN`
 
 ### Impatto
-- ✅ Migrati 50+ servizi
-- ✅ Frequenza di rilascio +10x
-- ✅ -40% costi infrastrutturali
-- ✅ Maggiore osservabilità e debugging
+- ✅ Approccio innovativo alla gestione router distribuiti
+- ✅ Creazione flessibile di topologie di rete
+- ✅ Astrazione middleware per controllo router
+- ✅ Fondamento per ricerca su software-defined networking
+
+### Link
+- 👁️ [Vedi su GitHub →](https://github.com/lsambolino/dropgit)
 
 </div>
 
@@ -114,32 +118,6 @@ Assenza di monitoraggio centralizzato rendeva difficile mantenere SLO e gestire 
 - ✅ MTTR ridotto del 60%
 - ✅ SLO visibili per i servizi critici
 - ✅ Alert proattivi per evitare impatti ai clienti
-
-</div>
-
----
-
-## 🔐 Implementazione sicurezza Zero-Trust
-
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
-
-### Problema
-Il modello di sicurezza perimetrale non era sufficiente per applicazioni cloud-native e lavoro remoto.
-
-### Soluzione
-- **Service mesh (Istio)** per mTLS e autenticazione service-to-service
-- **Accesso basato su identità** con OAuth2/OIDC
-- **Segmentazione di rete** con VMware NSX-T
-- **Policy enforcement** su ogni layer
-
-### Tecnologie
-`Istio` `Envoy` `OAuth2` `OIDC` `VMware NSX-T` `Kubernetes Network Policies`
-
-### Impatto
-- ✅ Eliminato il movimento laterale
-- ✅ Controllo di accesso granulare
-- ✅ Compliance con framework (ISO 27001, SOC 2)
-- ✅ Audit trail e visibilità migliorate
 
 </div>
 
