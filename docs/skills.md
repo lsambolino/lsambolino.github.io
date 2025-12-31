@@ -22,7 +22,6 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 - **Operators** - Custom controller development and management
 
 ### Advanced
-- **Istio** - Service mesh configuration and traffic management
 - **cert-manager** - Automated certificate management
 - **Prometheus & Grafana** - Monitoring and observability
 - **ArgoCD** - GitOps continuous deployment
@@ -44,7 +43,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
     <li>EC2, ECS, EKS</li>
     <li>VPC, Route53, CloudFront</li>
     <li>S3, RDS, DynamoDB</li>
-    <li>IAM, CloudWatch, CloudFormation</li>
+    <li>IAM, CloudWatch</li>
   </ul>
   <p><strong>✅ AWS Certified</strong></p>
 </div>
@@ -54,7 +53,7 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
   <ul style="line-height: 1.8;">
     <li>AKS (Azure Kubernetes Service)</li>
     <li>Virtual Networks, App Gateway</li>
-    <li>Azure DevOps, ARM Templates</li>
+    <li>Azure DevOps</li>
     <li>Azure Monitor, Log Analytics</li>
   </ul>
   <p><strong>✅ Azure Certified</strong></p>
@@ -80,15 +79,15 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 <div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Provisioning & Configuration
-- **Terraform** - Multi-cloud infrastructure provisioning
 - **Ansible** - Configuration management and automation
-- **CloudFormation** - AWS infrastructure as code
-- **ARM Templates** - Azure resource deployment
+- **Saltstack** - Infrastructure automation and configuration management
+- **Helm** - Kubernetes package management
 
 ### CI/CD & Automation
 - **Jenkins** - Pipeline development and automation
 - **GitLab CI/CD** - Container-native pipelines
 - **GitHub Actions** - Workflow automation
+- **Tekton & Tekton Pipelines** - Kubernetes-native CI/CD
 - **ArgoCD** - Declarative GitOps
 
 ### Scripting & Programming
@@ -108,12 +107,10 @@ A comprehensive overview of my technical capabilities across cloud platforms, co
 ### Network Virtualization
 - **VMware NSX-T** - Software-defined networking
 - **Kubernetes Network Policies** - Pod-level security
-- **Service Mesh (Istio)** - mTLS and traffic management
 - **Load Balancers** - NGINX, HAProxy, cloud-native
 
 ### Security & Compliance
 - **OAuth2/OIDC** - Identity and access management
-- **HashiCorp Vault** - Secrets management
 - **TLS/PKI** - Certificate management
 - **RBAC** - Role-based access control
 

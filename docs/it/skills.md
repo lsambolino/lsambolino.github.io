@@ -23,7 +23,6 @@ Panoramica delle mie capacità su cloud, Kubernetes, DevOps, sicurezza e osserva
 - **Operators** - Controller personalizzati
 
 ### Avanzato
-- **Istio** - Traffic management, mTLS
 - **cert-manager** - Gestione automatica certificati
 - **Prometheus & Grafana** - Monitoring e observability
 - **ArgoCD** - GitOps CD
@@ -45,7 +44,7 @@ Panoramica delle mie capacità su cloud, Kubernetes, DevOps, sicurezza e osserva
     <li>EC2, ECS, EKS</li>
     <li>VPC, Route53, CloudFront</li>
     <li>S3, RDS, DynamoDB</li>
-    <li>IAM, CloudWatch, CloudFormation</li>
+    <li>IAM, CloudWatch</li>
   </ul>
   <p><strong>✅ AWS Certified</strong></p>
 </div>
@@ -55,7 +54,7 @@ Panoramica delle mie capacità su cloud, Kubernetes, DevOps, sicurezza e osserva
   <ul style="line-height: 1.8;">
     <li>AKS (Azure Kubernetes Service)</li>
     <li>Virtual Networks, App Gateway</li>
-    <li>Azure DevOps, ARM Templates</li>
+    <li>Azure DevOps</li>
     <li>Azure Monitor, Log Analytics</li>
   </ul>
   <p><strong>✅ Azure Certified</strong></p>
@@ -81,15 +80,15 @@ Panoramica delle mie capacità su cloud, Kubernetes, DevOps, sicurezza e osserva
 <div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
 
 ### Provisioning & Configurazione
-- **Terraform** - Provisioning multi-cloud
 - **Ansible** - Configurazione e automazione
-- **CloudFormation** - IaC su AWS
-- **ARM Templates** - Deployment su Azure
+- **Saltstack** - Automazione infrastruttura e gestione configurazione
+- **Helm** - Kubernetes package management
 
 ### CI/CD & Automazione
-- **Jenkins**
-- **GitLab CI/CD**
-- **GitHub Actions**
+- **Jenkins** - Pipeline development e automazione
+- **GitLab CI/CD** - Container-native pipelines
+- **GitHub Actions** - Workflow automation
+- **Tekton & Tekton Pipelines** - Kubernetes-native CI/CD
 - **ArgoCD** - GitOps
 
 ### Scripting & Linguaggi
@@ -109,12 +108,10 @@ Panoramica delle mie capacità su cloud, Kubernetes, DevOps, sicurezza e osserva
 ### Network & Mesh
 - **VMware NSX-T**
 - **Kubernetes Network Policies**
-- **Service Mesh (Istio)**
 - **Load Balancer** (NGINX, HAProxy, cloud)
 
 ### Identity & Security
 - **OAuth2/OIDC**
-- **HashiCorp Vault**
 - **TLS/PKI**
 - **RBAC**
 
