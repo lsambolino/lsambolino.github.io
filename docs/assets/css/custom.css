@@ -233,11 +233,12 @@ table {
 }
 
 th {
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-  color: white;
+  background: #f8f9fa;
+  color: var(--text-dark);
   padding: 15px;
   text-align: left;
   font-weight: 600;
+  border-bottom: 2px solid var(--border-color);
 }
 
 td {

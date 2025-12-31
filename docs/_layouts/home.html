@@ -9,6 +9,7 @@ layout: default
   <section class="home-posts" style="margin-top: 40px;">
     <ul class="post-list">
       {% for post in site.posts %}
+        {% unless post.lang == 'it' %}
         <li>
           <h2 class="post-link"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
           <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
@@ -17,6 +18,7 @@ layout: default
           {% endif %}
           <a href="{{ post.url | relative_url }}" class="btn">Read more</a>
         </li>
+        {% endunless %}
       {% endfor %}
     </ul>
   </section>
