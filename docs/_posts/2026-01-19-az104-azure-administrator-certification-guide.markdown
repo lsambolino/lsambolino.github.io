@@ -6,8 +6,6 @@ categories: azure certification
 tags: az-104 azure-administrator cloud
 ---
 
-# AZ-104: Azure Administrator Certification Guide
-
 As I study for the AZ-104 (Azure Administrator) certification, I'm documenting key concepts and knowledge to share with others on the same learning journey.
 
 ## Overview
