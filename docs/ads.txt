@@ -1,0 +1,6 @@
+# ads.txt
+# This file certifies the authorized digital ad sellers for this website.
+# More information about ads.txt: https://iabtechlab.com/ads-txt/
+
+# No third-party ad networks are currently authorized to sell ads on this site.
+# If you have advertising inquiries, please contact the site owner directly.
