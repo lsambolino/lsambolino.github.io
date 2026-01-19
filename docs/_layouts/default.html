@@ -75,7 +75,7 @@
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       <article class="post">
-        {% if page.title and page.layout != "home" %}
+        {% if page.title and page.layout != "home" and page.layout != "post" %}
           <header class="post-header">
             <h1 class="post-title">{{ page.title | escape }}</h1>
           </header>
