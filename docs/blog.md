@@ -60,6 +60,7 @@ I believe in sharing knowledge and lessons learned from real-world experience. M
 - 📊 **Best practices** - Industry-standard approaches and patterns
 - 🎯 **Case studies** - Deep dives into complex projects
 - 💭 **Lessons learned** - Reflections on successes and failures
+- 📚 **Study notes and certifications** - Sharing knowledge and concepts while pursuing professional certifications and continuous learning
 
 ---
 
