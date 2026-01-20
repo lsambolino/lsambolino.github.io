@@ -33,6 +33,10 @@ The AZ-104 certification validates the skills needed to manage Azure subscriptio
 ### 4. Configure and Manage Virtual Networking
 - Implement virtual networks
 - **Configure network security groups and application security groups**
+  - **NSG Assignment Scope**: Network Security Groups can be assigned to network interfaces, giving you fine-grained control over where security rules apply. You have two main approaches:
+    - **Subnet-Level NSG**: Assign an NSG to an entire subnet, and the access control list (ACL) rules automatically apply to all virtual machine instances within that subnet. This is efficient for managing consistent security policies across multiple VMs.
+    - **Network Interface-Level NSG**: Assign an NSG to a specific virtual machine's network interface for granular, VM-specific security control. This approach allows different security policies for individual machines, even within the same subnet.
+  
   - **NSG Port Configuration**: To allow Remote Desktop Management and Secured HTTPS, configure inbound security rules to allow port 3389 (RDP) and allow port 443 (HTTPS)
   - **Application Security Groups (ASG)**: When you have multiple subnets (e.g., 4 subnets with 10 VMs each) and need to allow inbound traffic over TCP 8080 to specific VMs (e.g., 2 VMs per subnet), use Application Security Groups. ASGs allow you to group together the network interfaces from multiple virtual machines, then use the group as the source or destination in an NSG rule. **Important**: All network interfaces must be in the same virtual network. Associate the NSG to each subnet and use the ASG in the rule to target only the specific VMs that need access, rather than managing individual IP addresses.
   - **NSG Rule Priority**: Rule priority is critical in NSGs - lower numbers are evaluated first. Example scenario with NSG1 containing VM1 and VM2 with outbound security rules:
