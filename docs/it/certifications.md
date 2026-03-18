@@ -10,8 +10,8 @@ Percorso continuo di formazione con certificazioni riconosciute. Ordine cronolog
 
 |  | Certificazione | Ente | Emesso | Scadenza | Note / ID |
 | --- | --- | --- | --- | --- | --- |
+| <img src="/assets/images/redhat-icon.svg" alt="Red Hat" style="width:20px;height:20px;vertical-align:middle;"> | Red Hat Certified OpenShift Administrator (EX280) | Red Hat | Mar 2026 | Mar 2029 | ID: 210-028-296; esame pratico |
 | 🇬🇧 | CEFR C1 / goFLUENT C1.1 | goFLUENT | Nov 2025 | — | Certificazione competenza inglese |
-| 🟥 | Red Hat Certified OpenShift Administrator (EX280) | Red Hat | Mar 2026 | Mar 2029 | ID: 210-028-296; esame pratico |
 | ☸️ | Certified Kubernetes Administrator | Cloud Native Computing Foundation (CNCF) | Dic 2024 | Nov 2026 | ID: LF-cm0epddd8b; esame pratico |
 | 🔧 | Site Reliability Engineering Foundation | DevOps Institute | Gen 2024 | Gen 2026 | ID: 24953718; SRE, SLO/SLA |
 | 📋 | ITIL® 4 Foundation Certificate | AXELOS Global Best Practice | Giu 2023 | Giu 2026 | ID: GR671535215LS; ITSM |
