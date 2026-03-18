@@ -10,6 +10,7 @@ Continuous learning and professional development through industry-recognized cer
 |  | Certification | Issuer | Issued | Expires | Notes / ID |
 | --- | --- | --- | --- | --- | --- |
 | 🇬🇧 | CEFR C1 / goFLUENT C1.1 | goFLUENT | Nov 2025 | — | English proficiency certification |
+| 🟥 | Red Hat Certified OpenShift Administrator (EX280) | Red Hat | Mar 2026 | Mar 2029 | ID: 210-028-296; hands-on, performance-based exam |
 | ☸️ | Certified Kubernetes Administrator | Cloud Native Computing Foundation (CNCF) | Dec 2024 | Nov 2026 | ID: LF-cm0epddd8b; hands-on, performance-based exam |
 | 🔧 | Site Reliability Engineering Foundation | DevOps Institute | Jan 2024 | Jan 2026 | ID: 24953718; core SRE, SLO/SLA practices |
 | 📋 | ITIL® 4 Foundation Certificate | AXELOS Global Best Practice | Jun 2023 | Jun 2026 | ID: GR671535215LS; ITSM framework |
