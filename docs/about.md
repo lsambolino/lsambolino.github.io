@@ -5,19 +5,11 @@ permalink: /about/
 alternate_url: /it/about/
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 40px; flex-wrap: wrap;">
-  <img src="/assets/images/profile.jpg" alt="Luigi Sambolino" style="width: 250px; height: 250px; border-radius: 15px; object-fit: cover; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-  <div style="flex: 1; min-width: 300px;">
-    <p style="font-size: 1.1em; line-height: 1.7; margin-top: 0;">
-      I'm a <strong>Cloud & DevOps Engineer</strong> passionate about building resilient, scalable systems using cloud-native technologies. Currently working as a Cloud Consultant with <strong>Accenture Spa</strong> in Milan, Italy.
-    </p>
-    <p style="font-size: 1.1em; line-height: 1.7;">
-      My journey started in academics, where I developed a strong foundation in telecommunications and signal processing. I then transitioned to the cloud computing world, working extensively with <strong>OpenStack, Kubernetes, and OpenShift</strong> in enterprise environments.
-    </p>
-  </div>
-</div>
+I'm a **Cloud & DevOps Engineer** passionate about building resilient, scalable systems using cloud-native technologies. Currently working as a Cloud Consultant with **Accenture Spa** in Milan, Italy.
 
-## 💼 Professional Journey
+My journey started in academics, where I developed a strong foundation in telecommunications and signal processing. I then transitioned to the cloud computing world, working extensively with **OpenStack, Kubernetes, and OpenShift** in enterprise environments.
+
+## Professional Journey
 
 ### Cloud Consultant @ Accenture Spa
 **Present** • Milan, Italy
@@ -34,7 +26,7 @@ I started my career in the academic world, researching and publishing work on:
 - Cloud management platforms
 - Network optimization techniques
 
-## 🎓 Education
+## Education
 
 **Master's Degree in Multimedia Signal Processing and Telecommunications Networks**  
 Advanced studies in signal processing, network protocols, and distributed systems
@@ -42,7 +34,7 @@ Advanced studies in signal processing, network protocols, and distributed system
 **BSc in Telecommunications Engineering**  
 Foundation in telecommunications principles, network architectures, and system design
 
-## 🏆 Certifications
+## Certifications
 
 I hold multiple industry certifications demonstrating expertise across cloud platforms and technologies:
 - **Certified Kubernetes Administrator (CKA)** - Cloud Native Computing Foundation
@@ -53,15 +45,11 @@ I hold multiple industry certifications demonstrating expertise across cloud pla
 
 [View all certifications →](/certifications)
 
-## 🌍 Personal Life
+## Personal Life
 
-Based in **Milan, Italy**, where I live with my wife and son. When I'm not working with cloud infrastructure, you'll find me:
+Based in **Milan, Italy** with my wife and son. Outside work I play tennis, hike mountain trails, and keep up with the cloud-native ecosystem.
 
-🎾 **Playing Tennis** - Staying active and competitive on the court  
-🥾 **Hiking** - Exploring mountain trails and enjoying nature  
-📚 **Continuous Learning** - Keeping up with the latest in cloud-native technologies
-
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always interested in discussing cloud architecture, DevOps practices, and technology trends. Feel free to reach out!
 

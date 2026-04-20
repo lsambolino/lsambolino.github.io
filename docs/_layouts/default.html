@@ -13,6 +13,11 @@
   <!-- Open Graph / Social Media Meta Tags -->
   {% seo %}
   
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
   <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
@@ -34,8 +39,13 @@
 <body>
   {% assign current_lang = page.lang | default: site.lang | default: 'en' %}
   {% assign nav_items = site.data.nav[current_lang] | default: site.data.nav.en %}
-  {% assign home_url = current_lang == 'it' ? '/it/' : '/' %}
-  {% assign alt_lang = current_lang == 'en' ? 'it' : 'en' %}
+  {% if current_lang == 'it' %}
+    {% assign home_url = '/it/' %}
+    {% assign alt_lang = 'en' %}
+  {% else %}
+    {% assign home_url = '/' %}
+    {% assign alt_lang = 'it' %}
+  {% endif %}
   {% if page.alternate_url %}
     {% assign alt_url = page.alternate_url %}
   {% elsif current_lang == 'en' %}
@@ -74,39 +84,60 @@
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-      <article class="post">
-        {% if page.title and page.layout != "home" and page.layout != "post" %}
-          <header class="post-header">
-            <h1 class="post-title">{{ page.title | escape }}</h1>
-          </header>
-        {% endif %}
+      <div class="site-layout">
+        <aside class="author-sidebar" role="complementary">
+          {% if site.author.avatar %}
+            <img class="author-sidebar__avatar" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+          {% endif %}
+          <div class="author-sidebar__meta">
+            <h3 class="author-sidebar__name">{{ site.author.name }}</h3>
+            {% if site.author.bio %}
+              <p class="author-sidebar__bio">{{ site.author.bio }}</p>
+            {% endif %}
+            <ul class="author-sidebar__links">
+              {% if site.author.location %}
+                <li><span class="icon">📍</span>{{ site.author.location }}</li>
+              {% endif %}
+              {% if site.email %}
+                <li><span class="icon">✉</span><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              {% endif %}
+              {% if site.github_username %}
+                <li><span class="icon">⌘</span><a href="https://github.com/{{ site.github_username }}" rel="noopener">GitHub</a></li>
+              {% endif %}
+              {% if site.linkedin_username %}
+                <li><span class="icon">in</span><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" rel="noopener">LinkedIn</a></li>
+              {% endif %}
+            </ul>
+          </div>
+        </aside>
 
-        <div class="post-content">
-          {{ content }}
+        <div class="site-main">
+          <article class="post">
+            {% if page.title and page.layout != "home" and page.layout != "post" %}
+              <header class="post-header">
+                <h1 class="post-title">{{ page.title | escape }}</h1>
+              </header>
+            {% endif %}
+
+            <div class="post-content">
+              {{ content }}
+            </div>
+          </article>
         </div>
-      </article>
+      </div>
     </div>
   </main>
 
   <footer class="site-footer">
     <div class="wrapper">
       <div class="footer-col-wrapper">
-        <div class="footer-col footer-col-1">
-          <ul class="contact-list">
-            {% if site.email %}
-              <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-          </ul>
+        <div class="footer-col">
+          &copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }}
         </div>
-        
-        <div class="footer-col footer-col-2">
-          {% if site.github_username %}
-            {% include icon-github.html username=site.github_username %}
-          {% endif %}
-        </div>
-
-        <div class="footer-col footer-col-3">
-          <p>{{ site.description | escape }}</p>
+        <div class="footer-col">
+          {% if site.email %}<a href="mailto:{{ site.email }}">{{ site.email }}</a>{% endif %}
+          {% if site.github_username %} &middot; <a href="https://github.com/{{ site.github_username }}" rel="noopener">GitHub</a>{% endif %}
+          {% if site.linkedin_username %} &middot; <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" rel="noopener">LinkedIn</a>{% endif %}
         </div>
       </div>
     </div>

@@ -6,11 +6,9 @@ lang: it
 alternate_url: /about/
 ---
 
-## 👋 Ciao, sono Luigi
+Sono un **Cloud & DevOps Engineer** con esperienza pratica su Kubernetes, OpenShift e infrastrutture cloud. Progetto piattaforme scalabili e resilienti, automatizzo processi e aiuto i team a lavorare in modo più affidabile.
 
-Sono un Cloud & DevOps Engineer con esperienza pratica su Kubernetes, OpenShift e infrastrutture cloud. Progetto piattaforme scalabili e resilienti, automatizzo processi, e aiuto i team a lavorare in modo più affidabile.
-
-## 🏆 Certificazioni
+## Certificazioni
 
 Principali certificazioni che attestano le mie competenze:
 - **Certified Kubernetes Administrator (CKA)** - Cloud Native Computing Foundation
@@ -21,15 +19,11 @@ Principali certificazioni che attestano le mie competenze:
 
 [Consulta tutte le certificazioni →](/it/certifications)
 
-## 🌍 Vita personale
+## Vita personale
 
-Vivo a **Milano, Italia** con mia moglie e mio figlio. Fuori dal lavoro:
+Vivo a **Milano** con mia moglie e mio figlio. Fuori dal lavoro gioco a tennis, faccio trekking in montagna e seguo le novità del mondo cloud-native.
 
-🎾 **Tennis** — per rimanere attivo e competitivo
-🥾 **Trekking** — amo i sentieri di montagna
-📚 **Apprendimento continuo** — seguo le novità del mondo cloud-native
-
-## 📫 Contatti
+## Contatti
 
 Sono sempre felice di parlare di architetture cloud, pratiche DevOps e trend tecnologici. Scrivimi!
 

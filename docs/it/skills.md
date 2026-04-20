@@ -6,217 +6,81 @@ lang: it
 alternate_url: /skills/
 ---
 
-# Competenze tecniche
-
 Panoramica delle mie capacità su cloud, Kubernetes, DevOps, sicurezza e osservabilità.
 
----
+## Container e Cloud Native
 
-## ☸️ Container e Cloud Native
+**Livello Esperto**
+- Kubernetes — design cluster, deployment, troubleshooting
+- OpenShift — amministrazione enterprise
+- Helm — packaging applicazioni
+- Operators — controller personalizzati
 
-<div style="background: linear-gradient(135deg, #326ce5 0%, #7aa3e5 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;" markdown="1">
+**Avanzato**
+- cert-manager — gestione automatica certificati
+- Prometheus & Grafana — monitoring e observability
+- ArgoCD — GitOps CD
 
-### Livello Esperto
-- **Kubernetes** - Design cluster, deployment, troubleshooting
-- **OpenShift** - Amministrazione enterprise
-- **Helm** - Packaging applicazioni
-- **Operators** - Controller personalizzati
+Certificazioni: Certified Kubernetes Administrator (CKA) — CNCF; Red Hat Certified OpenShift Administrator (EX280).
 
-### Avanzato
-- **cert-manager** - Gestione automatica certificati
-- **Prometheus & Grafana** - Monitoring e observability
-- **ArgoCD** - GitOps CD
+## Piattaforme Cloud
 
-### Certificazioni
-✅ **Certified Kubernetes Administrator (CKA)** - CNCF
+**Amazon Web Services** — EC2, ECS, EKS, VPC, Route53, CloudFront, S3, RDS, DynamoDB, IAM, CloudWatch. AWS Certified.
 
-</div>
+**Microsoft Azure** — AKS, Virtual Networks, App Gateway, Azure DevOps, Azure Monitor, Log Analytics. Azure Certified.
 
----
+**Google Cloud Platform** — GKE, Compute Engine, Cloud Run, Cloud Storage, BigQuery, Stackdriver, Cloud Build. GCP Certified.
 
-## ☁️ Piattaforme Cloud
+## Infrastructure as Code & Automazione
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;" markdown="1">
+**Provisioning** — Ansible, Saltstack, Helm.
 
-<div style="background: #FF9900; color: white; padding: 20px; border-radius: 10px;">
-  <h3 style="margin-top: 0;">☁️ Amazon Web Services</h3>
-  <ul style="line-height: 1.8;">
-    <li>EC2, ECS, EKS</li>
-    <li>VPC, Route53, CloudFront</li>
-    <li>S3, RDS, DynamoDB</li>
-    <li>IAM, CloudWatch</li>
-  </ul>
-  <p><strong>✅ AWS Certified</strong></p>
-</div>
+**CI/CD** — Jenkins, GitLab CI/CD, GitHub Actions, Tekton, ArgoCD.
 
-<div style="background: #0078D4; color: white; padding: 20px; border-radius: 10px;">
-  <h3 style="margin-top: 0;">☁️ Microsoft Azure</h3>
-  <ul style="line-height: 1.8;">
-    <li>AKS (Azure Kubernetes Service)</li>
-    <li>Virtual Networks, App Gateway</li>
-    <li>Azure DevOps</li>
-    <li>Azure Monitor, Log Analytics</li>
-  </ul>
-  <p><strong>✅ Azure Certified</strong></p>
-</div>
+**Scripting & Linguaggi** — Python, Bash, Go, YAML/JSON.
 
-<div style="background: #4285F4; color: white; padding: 20px; border-radius: 10px;">
-  <h3 style="margin-top: 0;">☁️ Google Cloud Platform</h3>
-  <ul style="line-height: 1.8;">
-    <li>GKE (Google Kubernetes Engine)</li>
-    <li>Compute Engine, Cloud Run</li>
-    <li>Cloud Storage, BigQuery</li>
-    <li>Stackdriver, Cloud Build</li>
-  </ul>
-  <p><strong>✅ GCP Certified</strong></p>
-</div>
+## Security & Networking
 
-</div>
+**Network & Mesh** — VMware NSX-T, Kubernetes Network Policies, NGINX, HAProxy.
 
----
+**Identity & Security** — OAuth2/OIDC, TLS/PKI, RBAC.
 
-## 🛠️ Infrastructure as Code & Automazione
+Certificazioni: VMware NSX-T Data Center; ITIL 4 Foundation.
 
-<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
+## Osservabilità & Monitoring
 
-### Provisioning & Configurazione
-- **Ansible** - Configurazione e automazione
-- **Saltstack** - Automazione infrastruttura e gestione configurazione
-- **Helm** - Kubernetes package management
+**Metriche** — Prometheus, Thanos, Grafana, AlertManager.
 
-### CI/CD & Automazione
-- **Jenkins** - Pipeline development e automazione
-- **GitLab CI/CD** - Container-native pipelines
-- **GitHub Actions** - Workflow automation
-- **Tekton & Tekton Pipelines** - Kubernetes-native CI/CD
-- **ArgoCD** - GitOps
+**Log & Tracing** — ELK (Elasticsearch, Logstash, Kibana), Fluentd/Fluent Bit, Jaeger, CloudWatch/Stackdriver.
 
-### Scripting & Linguaggi
-- **Python**
-- **Bash**
-- **Go**
-- **YAML/JSON**
+**Pratiche SRE** — SLO/SLA/SLI, error budget, incident response, capacity planning.
 
-</div>
+## Containers & Runtimes
+
+**Docker** — image hardening, build multi-stage, best practice di sicurezza, Docker Compose.
+
+**Build tools** — Buildah, Podman, containerd, CRI-O.
+
+## Sistemi Operativi
+
+**Linux** — RHEL/CentOS, Ubuntu/Debian; performance tuning, RPM/YUM/APT.
+
+**Altre piattaforme** — OpenStack, VMware vSphere, Git.
+
+## Metodologie
+
+- Site Reliability Engineering (SRE)
+- DevOps & Agile
+- GitOps
+- Infrastructure as Code
+- 12-Factor
+- Microservices
+- ITIL 4
+
+## Apprendimento continuo
+
+Mantengo le certificazioni attive, contribuisco a progetti open-source, scrivo articoli tecnici e seguo le tecnologie emergenti.
 
 ---
 
-## 🔒 Security & Networking
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;" markdown="1">
-
-### Network & Mesh
-- **VMware NSX-T**
-- **Kubernetes Network Policies**
-- **Load Balancer** (NGINX, HAProxy, cloud)
-
-### Identity & Security
-- **OAuth2/OIDC**
-- **TLS/PKI**
-- **RBAC**
-
-### Certificazioni
-✅ **VMware NSX-T Data Center**
-✅ **ITIL 4 Foundation**
-
-</div>
-
----
-
-## 📊 Osservabilità & Monitoring
-
-<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;" markdown="1">
-
-### Metriche
-- **Prometheus**, **Thanos**, **Grafana**, **AlertManager**
-
-### Log & Tracing
-- **ELK** (Elasticsearch, Logstash, Kibana)
-- **Fluentd/Fluent Bit**
-- **Jaeger**
-- **CloudWatch/Stackdriver**
-
-### Pratiche SRE
-- Definizione SLO/SLA/SLI
-- Error budget e reliability engineering
-- Incident response e post-mortem
-- Capacity planning
-
-</div>
-
----
-
-## 🐳 Containers & Runtimes
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;" markdown="1">
-
-<div style="flex: 1; min-width: 250px; background: #2496ed; color: white; padding: 20px; border-radius: 10px;">
-  <h3 style="margin-top: 0;">🐳 Docker</h3>
-  <ul style="line-height: 1.8;">
-    <li>Image hardening & ottimizzazione</li>
-    <li>Build multi-stage</li>
-    <li>Best practice di sicurezza</li>
-    <li>Docker Compose</li>
-  </ul>
-</div>
-
-<div style="flex: 1; min-width: 250px; background: #663399; color: white; padding: 20px; border-radius: 10px;">
-  <h3 style="margin-top: 0;">📦 Build tools</h3>
-  <ul style="line-height: 1.8;">
-    <li>Buildah</li>
-    <li>Podman</li>
-    <li>containerd</li>
-    <li>CRI-O</li>
-  </ul>
-</div>
-
-</div>
-
----
-
-## 💻 Sistemi Operativi
-
-<div style="background: #f8f9fa; padding: 25px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
-
-### Linux
-- **RHEL/CentOS**, **Ubuntu/Debian**
-- Performance tuning e troubleshooting
-- Gestione pacchetti (RPM, YUM, APT)
-
-### Altre piattaforme
-- **OpenStack**, **VMware vSphere**, **Git**
-
-</div>
-
----
-
-## 🎯 Metodologie
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 10px; margin: 20px 0;" markdown="1">
-
-- ✅ **Site Reliability Engineering (SRE)**
-- ✅ **DevOps & Agile**
-- ✅ **GitOps**
-- ✅ **Infrastructure as Code**
-- ✅ **12-Factor**
-- ✅ **Microservices**
-- ✅ **ITIL 4**
-
-</div>
-
----
-
-## 📚 Apprendimento continuo
-
-- Mantenimento delle certificazioni attive
-- Contributi a progetti open-source
-- Articoli tecnici e case study
-- Interesse per tecnologie emergenti
-
----
-
-## 🚀 Hai bisogno di aiuto?
-
-Posso supportarti in migrazioni Kubernetes, strategie multi-cloud o pratiche SRE.
-
-[Certificazioni →](/it/certifications) | [Progetti →](/it/projects) | [Contatti →](/it/contact)
+[Certificazioni](/it/certifications) · [Progetti](/it/projects) · [Contatti](/it/contact)

@@ -8,123 +8,44 @@ alternate_url: /projects/
 
 Alcuni progetti che mostrano la mia esperienza su infrastrutture cloud, Kubernetes e ingegneria DevOps.
 
----
+## Automazione certificati TLS in Kubernetes
 
-## 🔧 Automazione certificati TLS in Kubernetes
+**Problema** — gestione manuale dei certificati TLS nei cluster Kubernetes con scadenze impreviste che causavano interruzioni (vedi il [case study](/kubernetes/2024/09/10/tls-expiration-causes-major-kubernetes-disruption.html)).
 
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
+**Soluzione** — rotazione automatica con cert-manager, alerting Prometheus sulle scadenze, GitOps per il ciclo di vita, runbook automatizzati.
 
-### Problema
-Gestione manuale dei certificati TLS nei cluster Kubernetes con scadenze impreviste che causavano interruzioni, come descritto nel mio [articolo sull'incidente critico](/kubernetes/2024/09/10/tls-expiration-causes-major-kubernetes-disruption.html).
+**Stack** — Kubernetes, cert-manager, Prometheus, Grafana, GitOps, OpenShift.
 
-### Soluzione
-- **cert-manager** per il rilascio automatico dei certificati
-- **Monitoring & alerting** con Prometheus per tracciare le scadenze
-- **GitOps** per il ciclo di vita dei certificati
-- **Runbook** automatizzati per la risposta agli incidenti
+**Impatto** — eliminata la gestione manuale, prevenuti gli outage da scadenze, tempo di risposta ridotto da ore a minuti.
 
-### Tecnologie
-`Kubernetes` `cert-manager` `Prometheus` `Grafana` `GitOps` `OpenShift`
+## Datacenter Assessment Engine
 
-### Impatto
-- ✅ Eliminata la gestione manuale dei certificati
-- ✅ 100% prevenzione di outage legati a scadenze
-- ✅ Ridotto il tempo di risposta da ore a minuti
-- ✅ Maggiore fiducia del team nell'affidabilità della piattaforma
-
-### Link
-- 📝 [Leggi il case study →](/kubernetes/2024/09/10/tls-expiration-causes-major-kubernetes-disruption.html)
-
-</div>
-
----
-
-## 📦 Datacenter Assessment Engine
-
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;" markdown="1">
-
-### Panoramica
 Motore di assessment datacenter basato su Ansible per discovery e analisi automatica dei componenti infrastrutturali.
 
-### Soluzione
-- **Discovery automatico** delle risorse datacenter
-- **Target list personalizzabili** via Ansible inventory
-- **Reporting completo** della baseline infrastrutturale
-- **Shell scripting** per estrazione e analisi dati
+**Stack** — Ansible, Shell, Linux.
 
-### Tecnologie
-`Ansible` `Shell` `Linux` `Infrastructure Assessment` `Automation`
+**Impatto** — discovery rapido dell'infrastruttura, baseline per migrazioni, documentazione automatica.
 
-### Impatto
-- ✅ Discovery rapido dell'infrastruttura datacenter
-- ✅ Assessment baseline per pianificare migrazioni
-- ✅ Generazione automatica documentazione
-- ✅ Riduzione tempo di audit manuale
+[Vedi su GitHub](https://github.com/lsambolino/datacenter_assessment)
 
-### Link
-- 👁️ [Vedi su GitHub →](https://github.com/lsambolino/datacenter_assessment)
+## DROP — Distributed Router Project
 
-</div>
+Middleware cooperativo per il controllo e la gestione distribuita di router IP, con nodi di rete logici costruiti tramite collaborazione distribuita.
 
----
+**Stack** — JavaScript, distributed systems, SDN.
 
-## 🌐 DROP - Distributed Router Project
+[Vedi su GitHub](https://github.com/lsambolino/dropgit)
 
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #667eea; margin: 20px 0; border-radius: 5px;" markdown="1">
+## Piattaforma di osservabilità SRE
 
-### Panoramica
-Il Distributed SW ROuter Project (DROP) abilita un middleware cooperativo per il controllo e la gestione distribuita di router IP, permettendo la costruzione di nodi di rete logici attraverso collaborazione distribuita.
+**Problema** — mancanza di monitoraggio centralizzato per mantenere SLO e gestire incidenti.
 
-### Soluzione
-- **Controllo router distribuito** e middleware di gestione
-- **Paradigma networking cooperativo**
-- **Implementazione JavaScript**
-- **Astrazione nodi di rete logici**
+**Soluzione** — metriche con Prometheus e Thanos, log con stack ELK, tracing con Jaeger, dashboard SLO e alerting.
 
-### Tecnologie
-`JavaScript` `Networking` `Distributed Systems` `SDN`
+**Stack** — Prometheus, Thanos, Grafana, Elasticsearch, Logstash, Kibana, Jaeger, AlertManager.
 
-### Impatto
-- ✅ Approccio innovativo alla gestione router distribuiti
-- ✅ Creazione flessibile di topologie di rete
-- ✅ Astrazione middleware per controllo router
-- ✅ Fondamento per ricerca su software-defined networking
-
-### Link
-- 👁️ [Vedi su GitHub →](https://github.com/lsambolino/dropgit)
-
-</div>
+**Impatto** — monitoraggio centralizzato per 100+ servizi, MTTR ridotto del 60%, SLO visibili, alert proattivi.
 
 ---
 
-## 📊 Piattaforma di osservabilità SRE
-
-<div style="background: #f8f9fa; padding: 20px; border-left: 4px solid #764ba2; margin: 20px 0; border-radius: 5px;" markdown="1">
-
-### Problema
-Assenza di monitoraggio centralizzato rendeva difficile mantenere SLO e gestire incidenti.
-
-### Soluzione
-- **Metriche** con Prometheus e Thanos
-- **Log** con stack ELK (Elasticsearch, Logstash, Kibana)
-- **Tracing** distribuito con Jaeger
-- **SLO dashboard** e alerting proattivo
-
-### Tecnologie
-`Prometheus` `Thanos` `Grafana` `Elasticsearch` `Logstash` `Kibana` `Jaeger` `AlertManager`
-
-### Impatto
-- ✅ Monitoraggio centralizzato per 100+ servizi
-- ✅ MTTR ridotto del 60%
-- ✅ SLO visibili per i servizi critici
-- ✅ Alert proattivi per evitare impatti ai clienti
-
-</div>
-
----
-
-## 🚀 Vuoi collaborare?
-
-Sono interessato a progetti sfidanti su infrastrutture cloud, Kubernetes e automazione DevOps.
-
-[Contatti →](/it/contact) | [Certificazioni →](/it/certifications) | [Blog →](/it/blog)
+[Contatti](/it/contact) · [Certificazioni](/it/certifications) · [Blog](/it/blog)
