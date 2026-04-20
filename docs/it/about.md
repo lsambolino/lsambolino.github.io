@@ -8,6 +8,28 @@ alternate_url: /about/
 
 Sono un **Cloud & DevOps Engineer** con esperienza pratica su Kubernetes, OpenShift e infrastrutture cloud. Progetto piattaforme scalabili e resilienti, automatizzo processi e aiuto i team a lavorare in modo più affidabile.
 
+## Percorso professionale
+
+### Cloud Consultant @ Accenture Spa
+**Oggi** • Milano
+
+Progettazione, realizzazione e manutenzione di sistemi IT e ambienti cloud enterprise. Aree di specializzazione:
+- Orchestrazione container con Kubernetes e OpenShift
+- Automazione e provisioning di infrastrutture cloud
+- Pratiche di Site Reliability Engineering (SRE)
+- Architetture multi-cloud (AWS, Azure, GCP)
+
+### Technical Director, poi IT Solutions Manager @ Huawei Technologies
+**2015 – 2018** • Milano e Roma
+
+Prima come Technical Director, gestendo installazione e commissioning di soluzioni di datacenter cloud on-prem per clienti enterprise. Successivamente come IT Solutions Manager, facendo da ponte tra requisiti dei clienti e solution engineering tra gli uffici di Milano e Roma.
+
+### Percorso accademico
+Ho iniziato la carriera nel mondo accademico, con ricerca e pubblicazioni su:
+- Green Precision Time Protocol
+- Piattaforme di cloud management
+- Ottimizzazione di rete
+
 ## Certificazioni
 
 Principali certificazioni che attestano le mie competenze:

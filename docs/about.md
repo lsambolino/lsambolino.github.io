@@ -20,6 +20,11 @@ Designing, building, delivering and maintaining enterprise-grade IT systems and 
 - Site Reliability Engineering (SRE) practices
 - Multi-cloud architectures (AWS, Azure, GCP)
 
+### Technical Director, then IT Solutions Manager @ Huawei Technologies
+**2015 – 2018** • Milan and Rome, Italy
+
+Started as Technical Director, managing the installation and commissioning of local cloud datacenter solutions for enterprise customers. Later moved into an IT Solutions Manager role, bridging customer requirements and solution engineering across the Milan and Rome offices.
+
 ### Academic Background
 I started my career in the academic world, researching and publishing work on:
 - Green Precision Time Protocol implementations
