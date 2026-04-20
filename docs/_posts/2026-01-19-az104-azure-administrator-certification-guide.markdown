@@ -19,6 +19,34 @@ The AZ-104 certification validates the skills needed to manage Azure subscriptio
 - Manage access with RBAC
 - Manage subscriptions and governance
 
+#### Azure Subscription Basics
+- Definition: A subscription is a logical container for Azure resources and the billing boundary for their consumption.
+
+#### Microsoft Entra ID (formerly Azure Active Directory)
+Note: Azure Active Directory is now called Microsoft Entra ID. 
+Microsoft Entra is Microsoft's cloud-based identity and access management service.
+
+**Tenant**: A dedicated instance that an organization receives when they sign up for a Microsoft cloud service.
+It represents the organization and contains all of its users, groups, applications and other identity-related resources.
+Each tenant has a unique domain name and is completely isolated from other tenants.
+
+**Licenses**: Subscription-based entitlements that grant users access to specific Microsoft cloud services and features.
+Examples:
+Microsoft 365 E3/E5
+Office 365
+Each license provides access to a bundle of services and must be assigned to users before they can use those services.
+
+**Entra ID Attributes**: Properties or characteristics associated with user objects in Microsoft Entra ID. These include information such as:
+- Department
+- Job title
+- Office location
+- Employee type (contractor, full-time, etc.)
+- Custom attributes
+
+Attributes: metadata about users that can be used for automation, filtering, and policy application.
+
+**Dynamic security groups** are groups in Microsoft Entra ID where membership is automatically determined and updated based on user or device attributes, rather than being manually managed. The group membership is controlled by rules (queries) that evaluate attributes, and users or devices are automatically added or removed as their attributes change.
+
 ### 2. Implement and Manage Storage
 - Create and configure storage accounts
 - Manage data in Azure Storage
