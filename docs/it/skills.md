@@ -83,4 +83,6 @@ Mantengo le certificazioni attive, contribuisco a progetti open-source, scrivo a
 
 ---
 
+[Come si collegano queste competenze nel mio knowledge framework →](/it/framework/)
+
 [Certificazioni](/it/certifications) · [Progetti](/it/projects) · [Contatti](/it/contact)

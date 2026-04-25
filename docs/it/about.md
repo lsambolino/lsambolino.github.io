@@ -6,14 +6,14 @@ lang: it
 alternate_url: /about/
 ---
 
-Sono un **Cloud & DevOps Engineer** con esperienza pratica su Kubernetes, OpenShift e infrastrutture cloud. Progetto piattaforme scalabili e resilienti, automatizzo processi e aiuto i team a lavorare in modo più affidabile.
+Il mio percorso è iniziato in ambito accademico — laurea magistrale in elaborazione di segnali multimediali e reti di telecomunicazioni — per poi passare attraverso il networking enterprise fino all'infrastruttura cloud-native. Un'abitudine che ho mantenuto: capire il livello sotto a quello su cui sto lavorando. Ho sintetizzato quest'idea in un [knowledge framework](/it/framework/).
 
 ## Percorso professionale
 
 ### Cloud Consultant @ Accenture Spa
-**Oggi** • Milano
+**Oggi**
 
-Progettazione, realizzazione e manutenzione di sistemi IT e ambienti cloud enterprise. Aree di specializzazione:
+Ambienti cloud enterprise end to end — progettazione, realizzazione, delivery, gestione. Nel quotidiano mi occupo di:
 - Orchestrazione container con Kubernetes e OpenShift
 - Automazione e provisioning di infrastrutture cloud
 - Pratiche di Site Reliability Engineering (SRE)
@@ -22,34 +22,27 @@ Progettazione, realizzazione e manutenzione di sistemi IT e ambienti cloud enter
 ### Technical Director, poi IT Solutions Manager @ Huawei Technologies
 **2015 – 2018** • Milano e Roma
 
-Prima come Technical Director, gestendo installazione e commissioning di soluzioni di datacenter cloud on-prem per clienti enterprise. Successivamente come IT Solutions Manager, facendo da ponte tra requisiti dei clienti e solution engineering tra gli uffici di Milano e Roma.
+Installazione e commissioning di soluzioni datacenter cloud on-prem per clienti enterprise, prima come Technical Director, poi come IT Solutions Manager facendo da ponte tra requisiti dei clienti e solution engineering.
 
-### Percorso accademico
-Ho iniziato la carriera nel mondo accademico, con ricerca e pubblicazioni su:
-- Green Precision Time Protocol
-- Piattaforme di cloud management
-- Ottimizzazione di rete
+### Ricerca
+
+All'inizio della carriera ho pubblicato lavori su Green Precision Time Protocol, piattaforme di cloud management e ottimizzazione di rete.
+
+## Formazione
+
+**Laurea magistrale — Elaborazione di segnali multimediali e reti di telecomunicazioni**  
+Signal processing, protocolli di rete e sistemi distribuiti.
+
+**Laurea triennale — Ingegneria delle telecomunicazioni**  
+Principi di telecomunicazioni, architetture di rete e progettazione di sistemi.
 
 ## Certificazioni
 
-Principali certificazioni che attestano le mie competenze:
-- **Certified Kubernetes Administrator (CKA)** - Cloud Native Computing Foundation
-- **Site Reliability Engineering Foundation** - DevOps Institute
-- **ITIL 4 Foundation** - AXELOS
-- **Cloud Platform**: Azure, AWS, Google Cloud Platform
-- **VMware NSX-T Data Center** - Network virtualization
+CKA (CNCF), SRE Foundation (DevOps Institute), ITIL 4, AWS / Azure / GCP, VMware NSX-T.  
+[Tutte le certificazioni →](/it/certifications)
 
-[Consulta tutte le certificazioni →](/it/certifications)
+## Fuori dal lavoro
 
-## Vita personale
-
-Vivo a **Milano** con mia moglie e mio figlio. Fuori dal lavoro gioco a tennis, faccio trekking in montagna e seguo le novità del mondo cloud-native.
-
-## Contatti
-
-Sono sempre felice di parlare di architetture cloud, pratiche DevOps e trend tecnologici. Scrivimi!
-
-- **Email**: [lsambolino@gmail.com](mailto:lsambolino@gmail.com)
-- **GitHub**: [@lsambolino](https://github.com/lsambolino)
+Tennis, trekking in montagna e novità del mondo cloud-native. Vivo con mia moglie e mio figlio.
 
 [Progetti →](/it/projects) | [Blog →](/it/blog) | [Contatti →](/it/contact)

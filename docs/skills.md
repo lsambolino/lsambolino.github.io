@@ -82,4 +82,6 @@ I stay current with cloud-native technologies through active certifications, ope
 
 ---
 
+[How these skills map to my knowledge framework →](/framework/)
+
 [View my certifications](/certifications) · [See my projects](/projects) · [Get in touch](/contact)

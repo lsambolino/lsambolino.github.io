@@ -11,6 +11,8 @@ en:
     url: /certifications/
   - label: Academic
     url: /academic/
+  - label: Framework
+    url: /framework/
   - label: Blog
     url: /blog/
   - label: Contact
@@ -29,6 +31,8 @@ it:
     url: /it/certifications/
   - label: Formazione
     url: /it/academic/
+  - label: Framework
+    url: /it/framework/
   - label: Blog
     url: /it/blog/
   - label: Contatti
