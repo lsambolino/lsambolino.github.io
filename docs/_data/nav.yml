@@ -5,8 +5,6 @@ en:
     url: /about/
   - label: Projects
     url: /projects/
-  - label: Skills
-    url: /skills/
   - label: Certifications
     url: /certifications/
   - label: Academic
@@ -25,8 +23,6 @@ it:
     url: /it/about/
   - label: Progetti
     url: /it/projects/
-  - label: Competenze
-    url: /it/skills/
   - label: Certificazioni
     url: /it/certifications/
   - label: Formazione

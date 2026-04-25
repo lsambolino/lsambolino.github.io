@@ -82,4 +82,4 @@ Selected research publications in energy-efficient computing and telecommunicati
 
 ---
 
-[View my certifications →](/certifications) | [See my skills →](/skills) | [View my projects →](/projects)
+[View my certifications →](/certifications) | [View my projects →](/projects)

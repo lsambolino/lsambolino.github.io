@@ -24,4 +24,4 @@ Percorso continuo di formazione con certificazioni riconosciute. Ordine cronolog
 
 ---
 
-[Competenze →](/it/skills) | [Progetti →](/it/projects) | [Contatti →](/it/contact)
+[Progetti →](/it/projects) | [Contatti →](/it/contact)

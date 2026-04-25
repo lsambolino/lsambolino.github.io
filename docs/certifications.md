@@ -23,4 +23,4 @@ Continuous learning and professional development through industry-recognized cer
 
 ---
 
-[View my skills →](/skills) | [See my projects →](/projects) | [Get in touch →](/contact)
+[See my projects →](/projects) | [Get in touch →](/contact)

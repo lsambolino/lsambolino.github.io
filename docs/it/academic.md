@@ -83,4 +83,4 @@ Pubblicazioni scientifiche selezionate in ambito di computing energy-efficient e
 
 ---
 
-[Certificazioni →](/it/certifications) | [Competenze →](/it/skills) | [Progetti →](/it/projects)
+[Certificazioni →](/it/certifications) | [Progetti →](/it/projects)
