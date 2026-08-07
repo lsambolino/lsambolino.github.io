@@ -44,7 +44,7 @@ Certifications: Certified Kubernetes Administrator (CKA) — CNCF; Red Hat Certi
 
 **Security & Compliance** — OAuth2/OIDC, TLS/PKI, RBAC.
 
-Certifications: VMware NSX-T Data Center; ITIL 4 Foundation.
+Certifications: VMware NSX-T Data Center; ITIL Foundation (Version 5).
 
 ## Observability & Monitoring
 
@@ -74,7 +74,7 @@ Certifications: VMware NSX-T Data Center; ITIL 4 Foundation.
 - Infrastructure as Code
 - 12-Factor Applications
 - Microservices Architecture
-- ITIL 4
+- ITIL 5
 
 ## Continuous Learning
 

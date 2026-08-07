@@ -37,7 +37,7 @@ Telecommunications principles, network architectures, and system design.
 
 ## Certifications
 
-CKA (CNCF), SRE Foundation (DevOps Institute), ITIL 4, AWS / Azure / GCP, VMware NSX-T.  
+CKA (CNCF), SRE Foundation (DevOps Institute), ITIL 5, AWS / Azure / GCP, VMware NSX-T.  
 [View all certifications →](/certifications)
 
 ## Outside Work
