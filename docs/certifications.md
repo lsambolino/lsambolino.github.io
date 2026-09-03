@@ -10,7 +10,7 @@ Continuous learning and professional development through industry-recognized cer
 |  | Certification | Issuer | Issued | Expires | Notes / ID |
 | --- | --- | --- | --- | --- | --- |
 | <img src="/assets/images/itil-v5.png" alt="ITIL" style="width:20px;height:20px;vertical-align:middle;"> | ITIL® Foundation (Version 5) | PeopleCert | Aug 2026 | Aug 2029 | Foundation Bridge upgrade from ITIL 4; ITSM value system & service lifecycle |
-| <img src="/assets/images/devops-institute.png" alt="DevOps Institute" style="width:20px;height:20px;vertical-align:middle;"> | Site Reliability Engineering Foundation | PeopleCert | Jul 2026 | Jul 2029 | Renewed; SRE, SLO/SLA practices |
+| <img src="/assets/images/sre-foundation.svg" alt="SRE Foundation" style="width:20px;height:20px;vertical-align:middle;"> | Site Reliability Engineering Foundation | PeopleCert / DevOps Institute | Jul 2026 | Jul 2029 | ID: 3972126; renewed v1.2; SRE, SLO/SLA practices |
 | <img src="/assets/images/redhat-icon.svg" alt="Red Hat" style="width:20px;height:20px;vertical-align:middle;"> | Red Hat Certified OpenShift Administrator (EX280) | Red Hat | Mar 2026 | Mar 2029 | ID: 210-028-296; hands-on, performance-based exam |
 | 🇬🇧 | CEFR C1 / goFLUENT C1.1 | goFLUENT | Nov 2025 | — | English proficiency certification |
 | <img src="/assets/images/kubernetes.png" alt="CNCF" style="width:20px;height:20px;vertical-align:middle;"> | Certified Kubernetes Administrator | Cloud Native Computing Foundation (CNCF) | Dec 2024 | Nov 2026 | ID: LF-cm0epddd8b; hands-on, performance-based exam |
