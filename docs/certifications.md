@@ -14,7 +14,7 @@ Continuous learning and professional development through industry-recognized cer
 | <img src="/assets/images/redhat-icon.svg" alt="Red Hat" style="width:20px;height:20px;vertical-align:middle;"> | Red Hat Certified OpenShift Administrator | Red Hat | Mar 2026 | Mar 2029 | EX280; ID: 210-028-296; hands-on, performance-based exam |
 | 🇬🇧 | CEFR C1 / goFLUENT C1.1 | goFLUENT | Nov 2025 | — | English proficiency certification |
 | <img src="/assets/images/kubernetes.png" alt="CNCF" style="width:20px;height:20px;vertical-align:middle;"> | Certified Kubernetes Administrator | Cloud Native Computing Foundation (CNCF) | Dec 2024 | Dec 2026 | ID: LF-cm0epddd8b; hands-on, performance-based exam |
-| <img src="/assets/images/devops-institute.png" alt="DevOps Institute" style="width:20px;height:20px;vertical-align:middle;"> | Site Reliability Engineering (SRE) Foundation | DevOps Institute | Jan 2024 | Jan 2026 | ID: 24953718; superseded (renewed Jul 2026) |
+| <img src="/assets/images/devops-institute.png" alt="DevOps Institute" style="width:20px;height:20px;vertical-align:middle;"> | Site Reliability Engineering (SRE) Foundation Certification | DevOps Institute | Jan 2024 | Jan 2026 | ID: 24953718; superseded (renewed Jul 2026) |
 | <img src="/assets/images/itil.png" alt="ITIL" style="width:20px;height:20px;vertical-align:middle;"> | ITIL® Foundation Certificate in IT Service Management | AXELOS Global Best Practice | Jun 2023 | Jun 2026 | ID: GR671535215LS; ITIL 4 Edition; superseded by ITIL Foundation (Version 5) |
 | 🔄 | Migration Ambassador Foundations | Amazon Web Services | Nov 2022 | — | Business-focused cloud migration |
 | ☁️ | Microsoft Certified: Azure Fundamentals | Microsoft | Jul 2020 | — | ID: H460-3273 |
