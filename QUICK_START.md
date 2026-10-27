@@ -45,7 +45,7 @@ bundle exec jekyll serve
 #### Update LinkedIn URL (if different):
 Edit `docs/_config.yml`, line with:
 ```yaml
-linkedin_username: luigi-sambolino
+linkedin_username: lsambolino
 ```
 
 #### Customize Projects:

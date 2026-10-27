@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Luigi Sambolino
-email: lsambolino@gmail.com
+# email: intentionally unset — a public mailto: is harvested by
+# cold-outreach lists. Contact goes through GitHub / LinkedIn instead.
 description: >- # this means to ignore newlines until "baseurl:"
   Cloud & DevOps Engineer | Building resilient systems with Kubernetes, OpenShift, and cloud-native technologies.
   Sharing experiences and insights on cloud infrastructure and modern DevOps practices.
@@ -27,12 +28,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lsambolino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 github_username:  lsambolino
-linkedin_username: luigi-sambolino
+linkedin_username: lsambolino
 
 # Author settings
 author:
   name: Luigi Sambolino
-  email: lsambolino@gmail.com
+  # email: intentionally unset — see note above
   bio: "Cloud & DevOps Engineer specializing in Kubernetes, OpenShift, and cloud infrastructure. Passionate about building scalable, resilient systems."
   location: "Milan, Italy"
   avatar: "/assets/images/profile.jpg"
@@ -43,7 +44,7 @@ social:
   name: Luigi Sambolino
   links:
     - https://github.com/lsambolino
-    - https://www.linkedin.com/in/luigi-sambolino
+    - https://www.linkedin.com/in/lsambolino
 
 # Navigation
 header_pages:

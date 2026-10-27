@@ -40,7 +40,7 @@ Kubernetes · Cloud · DevOps · SRE · Automazione · OpenShift · Best Practic
 ## Rimani aggiornato
 
 - [Abbonati via RSS](/feed.xml)
-- [LinkedIn](https://www.linkedin.com/in/luigi-sambolino)
+- [LinkedIn](https://www.linkedin.com/in/lsambolino)
 - [GitHub](https://github.com/lsambolino)
 
 ---

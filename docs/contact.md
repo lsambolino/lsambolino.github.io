@@ -9,9 +9,8 @@ I'm always interested in discussing cloud architecture, DevOps practices, Kubern
 
 ## Get in Touch
 
-- **Email** — [lsambolino@gmail.com](mailto:lsambolino@gmail.com) — best for detailed inquiries and project discussions.
 - **GitHub** — [@lsambolino](https://github.com/lsambolino) — open-source contributions and code.
-- **LinkedIn** — [luigi-sambolino](https://www.linkedin.com/in/luigi-sambolino).
+- **LinkedIn** — [lsambolino](https://www.linkedin.com/in/lsambolino).
 
 ## What I Can Help With
 

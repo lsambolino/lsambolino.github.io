@@ -10,9 +10,8 @@ Mi interessa confrontarmi su architetture cloud, pratiche DevOps, sfide Kubernet
 
 ## Come contattarmi
 
-- **Email** — [lsambolino@gmail.com](mailto:lsambolino@gmail.com) — migliore per richieste dettagliate e discussioni su progetti.
 - **GitHub** — [@lsambolino](https://github.com/lsambolino) — contributi open-source e repository.
-- **LinkedIn** — [luigi-sambolino](https://www.linkedin.com/in/luigi-sambolino).
+- **LinkedIn** — [lsambolino](https://www.linkedin.com/in/lsambolino).
 
 ## Come posso aiutarti
 

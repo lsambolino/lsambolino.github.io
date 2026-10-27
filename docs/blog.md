@@ -42,7 +42,7 @@ I believe in sharing knowledge and lessons learned from real-world experience. P
 ## Stay Updated
 
 - [Subscribe via RSS](/feed.xml)
-- [LinkedIn](https://www.linkedin.com/in/luigi-sambolino)
+- [LinkedIn](https://www.linkedin.com/in/lsambolino)
 - [GitHub](https://github.com/lsambolino)
 
 ---
