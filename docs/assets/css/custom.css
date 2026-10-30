@@ -506,3 +506,101 @@ tr:hover { background: transparent; }
   body { font-size: 12pt; color: #000; }
   a { color: #000; text-decoration: underline; }
 }
+
+
+/* ---- /referrals/ : warning box, job table, contact form ---------------- */
+
+.referral-warning {
+  border-left: 4px solid #c9a227;
+  background: var(--bg-muted);
+  padding: 0.9rem 1.1rem;
+  margin: 1.2rem 0 1.6rem;
+}
+
+.job-filter {
+  width: 100%;
+  max-width: 28rem;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 2px;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+}
+
+.job-filter-count {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 0.4rem 0 0.8rem;
+  min-height: 1.1em;
+}
+
+.job-table { font-size: 0.9rem; }
+.job-table td { vertical-align: top; }
+.job-table small { color: var(--muted); }
+
+.referral-form { max-width: 38rem; }
+
+.referral-form label {
+  display: block;
+  margin: 0.9rem 0 0.2rem;
+  font-weight: 600;
+}
+
+.referral-form label span[aria-hidden] { color: #b1403a; margin-left: 0.15rem; }
+
+.referral-form input[type="text"],
+.referral-form input[type="email"],
+.referral-form input[type="url"],
+.referral-form textarea {
+  width: 100%;
+  margin-top: 0.3rem;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 2px;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 400;
+}
+
+.referral-form fieldset {
+  margin: 1.6rem 0;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 2px;
+}
+
+.referral-form legend {
+  padding: 0 0.4rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.referral-form label.check {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  font-weight: 400;
+  font-size: 0.92rem;
+  margin: 0.6rem 0 0;
+}
+
+.referral-form label.check input { margin-top: 0.25rem; flex: 0 0 auto; }
+
+.referral-form button {
+  margin-top: 1.2rem;
+  padding: 0.55rem 1.4rem;
+  border: 0;
+  border-radius: 2px;
+  background: var(--link);
+  color: #fff;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.referral-form button:hover { background: var(--link-hover); }
+
+@media (max-width: 600px) {
+  .job-table { display: block; overflow-x: auto; }
+}

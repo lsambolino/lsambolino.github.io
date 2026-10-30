@@ -1,0 +1,41 @@
+name: Refresh Accenture job feed
+
+# Keeps docs/_data/accenture_jobs.json in sync with the public Accenture job
+# search for Italy, which feeds the table on /referrals/.
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-jobs
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch open roles
+        run: python3 scripts/fetch_jobs.py
+
+      - name: Commit when the catalogue changed
+        run: |
+          if git diff --quiet -- docs/_data/accenture_jobs.json; then
+            echo "No change in the job feed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/_data/accenture_jobs.json
+          git commit -m "Refresh Accenture job feed"
+          git push

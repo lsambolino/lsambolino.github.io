@@ -30,6 +30,11 @@ url: "https://lsambolino.github.io" # the base hostname & protocol for your site
 github_username:  lsambolino
 linkedin_username: lsambolino
 
+# Endpoint of the referral form on /referrals/ (Formspree: https://formspree.io/f/<id>,
+# Web3Forms: https://api.web3forms.com/submit). While this is unset the page shows a
+# notice instead of a form that would post nowhere.
+referral_form_action:
+
 # Author settings
 author:
   name: Luigi Sambolino

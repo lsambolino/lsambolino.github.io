@@ -1,0 +1,3764 @@
+{
+ "fetched_at": "2026-10-30T14:36:54+00:00",
+ "total": 169,
+ "jobs": [
+  {
+   "id": "R00313799",
+   "title": ".NET/C# Senior Developer",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00313799_it&title=.NET%2FC%23+Senior+Developer"
+  },
+  {
+   "id": "R00367758",
+   "title": "ACIN - Booking&Events - Intern",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00367758_it&title=ACIN+-+Booking%26Events+-+Intern"
+  },
+  {
+   "id": "R00344204",
+   "title": "AI Engineer",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344204_it&title=AI+Engineer"
+  },
+  {
+   "id": "R00344222",
+   "title": "AI Infrastructure Architect",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "artificial-intelligence-ai-data-science"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344222_it&title=AI+Infrastructure+Architect"
+  },
+  {
+   "id": "R00344227",
+   "title": "AI Infrastructure Principal Architect",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Senior Manager",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "artificial-intelligence-ai-data-science"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344227_it&title=AI+Infrastructure+Principal+Architect"
+  },
+  {
+   "id": "R00344215",
+   "title": "AI Large Language Mode (LLM) Technology Lead/Principal Architect",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Associate Director",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344215_it&title=AI+Large+Language+Mode+%28LLM%29+Technology+Lead%2FPrincipal+Architect"
+  },
+  {
+   "id": "R00344210",
+   "title": "AI Large Language Model (LLM) Technology Architect",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344210_it&title=AI+Large+Language+Model+%28LLM%29+Technology+Architect"
+  },
+  {
+   "id": "R00344641",
+   "title": "AI Native Software Engineering Specialist",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344641_it&title=AI+Native+Software+Engineering+Specialist"
+  },
+  {
+   "id": "R00354977",
+   "title": "AI Platform Engineer Consultant",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Modena",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00354977_it&title=AI+Platform+Engineer+Consultant"
+  },
+  {
+   "id": "R00347722",
+   "title": "AI/ML Computational Scientist Manager",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00347722_it&title=AI%2FML+Computational+Scientist+Manager"
+  },
+  {
+   "id": "14858492",
+   "title": "Accenture Construct - Infrastructures Market Segment Leader",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Associate Director",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14858492_it&title=Accenture+Construct+-+Infrastructures+Market+Segment+Leader"
+  },
+  {
+   "id": "14756767",
+   "title": "Adobe Content Supply Chain Specialist",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Remote",
+   "area": [
+    "technology",
+    "industries"
+   ],
+   "business_area": "Song",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14756767_it&title=Adobe+Content+Supply+Chain+Specialist"
+  },
+  {
+   "id": "R00366981",
+   "title": "Aftersales Business Analyst",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00366981_it&title=Aftersales+Business+Analyst"
+  },
+  {
+   "id": "R00278795",
+   "title": "Analista Junior Tecnico/Funzionale - Intern",
+   "locations": [
+    "Verona",
+    "Padova",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "consulting",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00278795_it&title=Analista+Junior+Tecnico%2FFunzionale+-+Intern"
+  },
+  {
+   "id": "R00308853",
+   "title": "Application / Enterprise Architect – Cloud Native",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00308853_it&title=Application+%2F+Enterprise+Architect+%E2%80%93+Cloud+Native"
+  },
+  {
+   "id": "R00314913",
+   "title": "Applied & Agentic AI Senior Software Engineer",
+   "locations": [
+    "Torino",
+    "Bologna",
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology",
+    "programming-languages"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00314913_it&title=Applied+%26+Agentic+AI+Senior+Software+Engineer"
+  },
+  {
+   "id": "14863029",
+   "title": "Archeologo/a – Sorveglianza archeologica in cantiere",
+   "locations": [
+    "Napoli",
+    "Bari",
+    "Pescara",
+    "Roma"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14863029_it&title=Archeologo%2Fa+%E2%80%93+Sorveglianza+archeologica+in+cantiere"
+  },
+  {
+   "id": "14784486",
+   "title": "Automotive Aftersales Transformation Expert",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14784486_it&title=Automotive+Aftersales+Transformation+Expert"
+  },
+  {
+   "id": "R00345603",
+   "title": "Automotive Sales & Aftersales Consultant",
+   "locations": [
+    "Torino",
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00345603_it&title=Automotive+Sales+%26+Aftersales+Consultant"
+  },
+  {
+   "id": "14784255",
+   "title": "Autonomous Supply Chain Transformation Expert",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14784255_it&title=Autonomous+Supply+Chain+Transformation+Expert"
+  },
+  {
+   "id": "14731605",
+   "title": "Backend Engineer - Manufacturing",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14731605_it&title=Backend+Engineer+-+Manufacturing"
+  },
+  {
+   "id": "R00279776",
+   "title": "Business Analyst - Intern",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "software-engineering",
+    "technology",
+    "consulting",
+    "strategy"
+   ],
+   "business_area": "Strategy & Consulting",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00279776_it&title=Business+Analyst+-+Intern"
+  },
+  {
+   "id": "14688600",
+   "title": "Business Analyst - Manufacturing",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14688600_it&title=Business+Analyst+-+Manufacturing"
+  },
+  {
+   "id": "R00349915",
+   "title": "Business Transformation Analyst",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "operations-delivery"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00349915_it&title=Business+Transformation+Analyst"
+  },
+  {
+   "id": "14585679",
+   "title": "Campaign Management Analyst_Fixed Term",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "marketing-communication"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14585679_it&title=Campaign+Management+Analyst_Fixed+Term"
+  },
+  {
+   "id": "14818045",
+   "title": "Campaign Management Internship",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "operations-delivery",
+    "marketing-communication"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14818045_it&title=Campaign+Management+Internship"
+  },
+  {
+   "id": "R00290978",
+   "title": "Capital Projects Internship",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00290978_it&title=Capital+Projects+Internship"
+  },
+  {
+   "id": "R00310083",
+   "title": "Centric PLM Consultant",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Napoli",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00310083_it&title=Centric+PLM+Consultant"
+  },
+  {
+   "id": "14731278",
+   "title": "Computer Vision Engineer",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14731278_it&title=Computer+Vision+Engineer"
+  },
+  {
+   "id": "14562800",
+   "title": "Construction Manager",
+   "locations": [
+    "Rovigo",
+    "Palermo",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "On-Site",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14562800_it&title=Construction+Manager"
+  },
+  {
+   "id": "R00314116",
+   "title": "Consultant Banking - Payments",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00314116_it&title=Consultant+Banking+-+Payments"
+  },
+  {
+   "id": "R00309951",
+   "title": "Consultant Core Banking Transformation",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "strategy",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00309951_it&title=Consultant+Core+Banking+Transformation"
+  },
+  {
+   "id": "R00324936",
+   "title": "Consultant – Finance & Accounting Transformation",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00324936_it&title=Consultant+%E2%80%93+Finance+%26+Accounting+Transformation"
+  },
+  {
+   "id": "14759758",
+   "title": "Consumer Goods Aftersales Transformation Expert",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14759758_it&title=Consumer+Goods+Aftersales+Transformation+Expert"
+  },
+  {
+   "id": "R00318105",
+   "title": "Contract Management Specialist",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "corporate-functions"
+   ],
+   "business_area": "Corporate Functions",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00318105_it&title=Contract+Management+Specialist"
+  },
+  {
+   "id": "R00343269",
+   "title": "Corporate Development Specialist",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "corporate-functions"
+   ],
+   "business_area": "Corporate Functions",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00343269_it&title=Corporate+Development+Specialist"
+  },
+  {
+   "id": "R00284999",
+   "title": "Cyber Defense Expert",
+   "locations": [
+    "Napoli",
+    "Bari",
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00284999_it&title=Cyber+Defense+Expert"
+  },
+  {
+   "id": "R00286660",
+   "title": "Cyber Threat Intelligence Expert",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Napoli",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "operations-delivery",
+    "security",
+    "technology",
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00286660_it&title=Cyber+Threat+Intelligence+Expert"
+  },
+  {
+   "id": "R00285215",
+   "title": "Cybersecurity Analyst",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Napoli",
+    "Rende",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00285215_it&title=Cybersecurity+Analyst"
+  },
+  {
+   "id": "R00297716",
+   "title": "Cybersecurity Expert",
+   "locations": [
+    "Milano",
+    "Napoli",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "operations-delivery",
+    "security",
+    "technology",
+    "consulting",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00297716_it&title=Cybersecurity+Expert"
+  },
+  {
+   "id": "R00310372",
+   "title": "Cybersecurity Governance Risk & Compliance Expert",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Napoli",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00310372_it&title=Cybersecurity+Governance+Risk+%26+Compliance+Expert"
+  },
+  {
+   "id": "R00337621",
+   "title": "Cybersecurity Health & Public Executive",
+   "locations": [
+    "Milano",
+    "Padova",
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00337621_it&title=Cybersecurity+Health+%26+Public+Executive"
+  },
+  {
+   "id": "R00364331",
+   "title": "Cybersecurity Internship",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00364331_it&title=Cybersecurity+Internship"
+  },
+  {
+   "id": "R00285669",
+   "title": "Cybersecurity Modernization Expert",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Napoli",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00285669_it&title=Cybersecurity+Modernization+Expert"
+  },
+  {
+   "id": "R00286051",
+   "title": "Cybersecurity Strategy & Organization Expert",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Napoli",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "operations-delivery",
+    "security",
+    "technology",
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00286051_it&title=Cybersecurity+Strategy+%26+Organization+Expert"
+  },
+  {
+   "id": "14688599",
+   "title": "DES Engineer",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14688599_it&title=DES+Engineer"
+  },
+  {
+   "id": "R00304034",
+   "title": "Data & AI Engineer",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology",
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00304034_it&title=Data+%26+AI+Engineer"
+  },
+  {
+   "id": "14396635",
+   "title": "Data Architect",
+   "locations": [
+    "Torino",
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14396635_it&title=Data+Architect"
+  },
+  {
+   "id": "R00356946",
+   "title": "Data Science Generative AI Consultant",
+   "locations": [
+    "Milano",
+    "Modena",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00356946_it&title=Data+Science+Generative+AI+Consultant"
+  },
+  {
+   "id": "R00344160",
+   "title": "Deep AI native software engineer",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344160_it&title=Deep+AI+native+software+engineer"
+  },
+  {
+   "id": "14741716",
+   "title": "Delivery Lead",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Senior Manager",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Remote",
+   "area": [],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14741716_it&title=Delivery+Lead"
+  },
+  {
+   "id": "R00273111",
+   "title": "Delmia Apriso Expert",
+   "locations": [
+    "Torino",
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00273111_it&title=Delmia+Apriso+Expert"
+  },
+  {
+   "id": "R00354466",
+   "title": "Digital transformation intern",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology",
+    "consulting",
+    "strategy",
+    "marketing-communication",
+    "product-development",
+    "engineering-manufacturing"
+   ],
+   "business_area": "Song",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00354466_it&title=Digital+transformation+intern"
+  },
+  {
+   "id": "R00306347",
+   "title": "Direzione Lavori Impianti Elettrici",
+   "locations": [
+    "Pianiga"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00306347_it&title=Direzione+Lavori+Impianti+Elettrici"
+  },
+  {
+   "id": "14802360",
+   "title": "Downstream Consultant for Ivalua",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14802360_it&title=Downstream+Consultant+for+Ivalua"
+  },
+  {
+   "id": "13488784",
+   "title": "EWM Functional Consultant",
+   "locations": [
+    "Milano",
+    "Napoli"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "Operations",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13488784_it&title=EWM+Functional+Consultant"
+  },
+  {
+   "id": "14615978",
+   "title": "Electrical Engineer",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Cagliari",
+    "Napoli",
+    "Padova",
+    "Roma",
+    "Rovigo",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14615978_it&title=Electrical+Engineer"
+  },
+  {
+   "id": "R00319344",
+   "title": "Electrical Engineering Lead – Progettazione Impianti Elettrici",
+   "locations": [
+    "Pianiga"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00319344_it&title=Electrical+Engineering+Lead+%E2%80%93+Progettazione+Impianti+Elettrici"
+  },
+  {
+   "id": "14842548",
+   "title": "Energy & Utilities Value Chain Transformation Manager",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14842548_it&title=Energy+%26+Utilities+Value+Chain+Transformation+Manager"
+  },
+  {
+   "id": "R00305787",
+   "title": "Enterprise Architect Consultant",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "Strategy & Consulting",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00305787_it&title=Enterprise+Architect+Consultant"
+  },
+  {
+   "id": "R00346615",
+   "title": "Enterprise Architect Manager Banking Industry",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "Strategy & Consulting",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00346615_it&title=Enterprise+Architect+Manager+Banking+Industry"
+  },
+  {
+   "id": "R00366814",
+   "title": "Enterprise Architecture Manager",
+   "locations": [
+    "Bari"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00366814_it&title=Enterprise+Architecture+Manager"
+  },
+  {
+   "id": "R00334262",
+   "title": "Fashion Value Chain Transformation Manager",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Senior Manager",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00334262_it&title=Fashion+Value+Chain+Transformation+Manager"
+  },
+  {
+   "id": "14132490",
+   "title": "Finance & Accounting Senior Specialist",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "operations-delivery"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14132490_it&title=Finance+%26+Accounting+Senior+Specialist"
+  },
+  {
+   "id": "R00356849",
+   "title": "Finance Transformation Analyst - Intern",
+   "locations": [
+    "Torino",
+    "Milano",
+    "Padova",
+    "Roma"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology",
+    "operations-delivery",
+    "consulting",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00356849_it&title=Finance+Transformation+Analyst+-+Intern"
+  },
+  {
+   "id": "R00279783",
+   "title": "Financial Services - Intern",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "program-project-management"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00279783_it&title=Financial+Services+-+Intern"
+  },
+  {
+   "id": "14413410",
+   "title": "Firmware Engineer",
+   "locations": [
+    "Milano",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology",
+    "programming-languages"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14413410_it&title=Firmware+Engineer"
+  },
+  {
+   "id": "R00345222",
+   "title": "Forward Deployed Engineer Manager",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00345222_it&title=Forward+Deployed+Engineer+Manager"
+  },
+  {
+   "id": "R00345231",
+   "title": "Forward Deployed Engineer Specialist",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00345231_it&title=Forward+Deployed+Engineer+Specialist"
+  },
+  {
+   "id": "R00361614",
+   "title": "Full Stack Engineer",
+   "locations": [
+    "Modena"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00361614_it&title=Full+Stack+Engineer"
+  },
+  {
+   "id": "R00366528",
+   "title": "Full Stack Engineer",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "artificial-intelligence-ai-data-science"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00366528_it&title=Full+Stack+Engineer"
+  },
+  {
+   "id": "R00342422",
+   "title": "Full-Stack Developer - Data Platform",
+   "locations": [
+    "Torino",
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00342422_it&title=Full-Stack+Developer+-+Data+Platform"
+  },
+  {
+   "id": "R00356913",
+   "title": "GenAI & AI Engineering Consultant",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Modena",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00356913_it&title=GenAI+%26+AI+Engineering+Consultant"
+  },
+  {
+   "id": "R00365207",
+   "title": "Google Cloud Platform Cloud Data Engineer",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "cloud",
+    "technology",
+    "technology-platforms",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00365207_it&title=Google+Cloud+Platform+Cloud+Data+Engineer"
+  },
+  {
+   "id": "R00359515",
+   "title": "Google Edge Mid Market Delivery Exec",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Senior Manager",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "operations-delivery",
+    "sales-account-management"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00359515_it&title=Google+Edge+Mid+Market+Delivery+Exec"
+  },
+  {
+   "id": "R00338137",
+   "title": "Google Full Stack Engineer - Google Deployed Engineer",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00338137_it&title=Google+Full+Stack+Engineer+-+Google+Deployed+Engineer"
+  },
+  {
+   "id": "R00338135",
+   "title": "Google Mid Market Solution Architect - EMEA",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Senior Manager",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "technology"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00338135_it&title=Google+Mid+Market+Solution+Architect+-+EMEA"
+  },
+  {
+   "id": "R00338080",
+   "title": "Google Pre Sales for Mid Market - Italy",
+   "locations": [
+    "Roma",
+    "Milano",
+    "Torino"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00338080_it&title=Google+Pre+Sales+for+Mid+Market+-+Italy"
+  },
+  {
+   "id": "R00363823",
+   "title": "HR & People Services Commercial Lead",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Associate Director",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "sales-account-management"
+   ],
+   "business_area": "Corporate Functions",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00363823_it&title=HR+%26+People+Services+Commercial+Lead"
+  },
+  {
+   "id": "13705422",
+   "title": "Hardware / Electronics / FPGA Engineer",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13705422_it&title=Hardware+%2F+Electronics+%2F+FPGA+Engineer"
+  },
+  {
+   "id": "R00285724",
+   "title": "Identity Cybersecurity Expert",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Napoli",
+    "Rende",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00285724_it&title=Identity+Cybersecurity+Expert"
+  },
+  {
+   "id": "R00292572",
+   "title": "Incident Response Digital Investigator",
+   "locations": [
+    "Milano",
+    "Napoli",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00292572_it&title=Incident+Response+Digital+Investigator"
+  },
+  {
+   "id": "R00364404",
+   "title": "Incident Response Manager",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00364404_it&title=Incident+Response+Manager"
+  },
+  {
+   "id": "13073772",
+   "title": "Industrial PLM Consultant (Siemens Teamcenter)",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Napoli",
+    "Torino"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Remote",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13073772_it&title=Industrial+PLM+Consultant+%28Siemens+Teamcenter%29"
+  },
+  {
+   "id": "R00276102",
+   "title": "Infrastructure and Network Cybersecurity Expert",
+   "locations": [
+    "Roma",
+    "Milano",
+    "Napoli"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "security"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00276102_it&title=Infrastructure+and+Network+Cybersecurity+Expert"
+  },
+  {
+   "id": "13727121",
+   "title": "Innovation Analyst Internship",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing",
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13727121_it&title=Innovation+Analyst+Internship"
+  },
+  {
+   "id": "R00338726",
+   "title": "Intellera  - Categorie Protette L.68/99 - Analyst",
+   "locations": [
+    "Roma",
+    "Milano",
+    "Palermo"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00338726_it&title=Intellera++-+Categorie+Protette+L.68%2F99+-+Analyst"
+  },
+  {
+   "id": "R00355724",
+   "title": "Intellera - BI & Data Visualization Consultant",
+   "locations": [
+    "Roma",
+    "Milano",
+    "Palermo"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00355724_it&title=Intellera+-+BI+%26+Data+Visualization+Consultant"
+  },
+  {
+   "id": "R00331116",
+   "title": "Intellera - IT Architect Analyst",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00331116_it&title=Intellera+-+IT+Architect+Analyst"
+  },
+  {
+   "id": "R00348153",
+   "title": "Intellera - Public Finance & Accounting Consultant",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00348153_it&title=Intellera+-+Public+Finance+%26+Accounting+Consultant"
+  },
+  {
+   "id": "R00333132",
+   "title": "Intellera Public Service Local - Digital Transformation Intern",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00333132_it&title=Intellera+Public+Service+Local+-+Digital+Transformation+Intern"
+  },
+  {
+   "id": "R00320230",
+   "title": "Intellera Public Service Local - PMO & Business Analyst",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00320230_it&title=Intellera+Public+Service+Local+-+PMO+%26+Business+Analyst"
+  },
+  {
+   "id": "R00358297",
+   "title": "Intellera Public Service – Real Estate & Asset Management Senior Consultant",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00358297_it&title=Intellera+Public+Service+%E2%80%93+Real+Estate+%26+Asset+Management+Senior+Consultant"
+  },
+  {
+   "id": "R00366325",
+   "title": "Intelligent Industry Architect",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00366325_it&title=Intelligent+Industry+Architect"
+  },
+  {
+   "id": "R00366321",
+   "title": "Intelligent Industry Architectural Manager",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00366321_it&title=Intelligent+Industry+Architectural+Manager"
+  },
+  {
+   "id": "14472750",
+   "title": "IoT Architect",
+   "locations": [
+    "Torino",
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14472750_it&title=IoT+Architect"
+  },
+  {
+   "id": "R00267300",
+   "title": "Junior Data Engineer",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00267300_it&title=Junior+Data+Engineer"
+  },
+  {
+   "id": "R00279839",
+   "title": "Junior SAP Analyst - Internship",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology",
+    "operations-delivery",
+    "consulting",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00279839_it&title=Junior+SAP+Analyst+-+Internship"
+  },
+  {
+   "id": "R00304871",
+   "title": "Junior Software Engineer",
+   "locations": [
+    "Rozzano",
+    "Roma"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00304871_it&title=Junior+Software+Engineer"
+  },
+  {
+   "id": "R00308259",
+   "title": "Mainframe System Administrator",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "technology",
+    "cloud"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00308259_it&title=Mainframe+System+Administrator"
+  },
+  {
+   "id": "14313853",
+   "title": "Management Consultant",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "Song",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14313853_it&title=Management+Consultant"
+  },
+  {
+   "id": "R00342490",
+   "title": "Maritime Business Analyst Internship",
+   "locations": [
+    "Milano",
+    "Torino"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00342490_it&title=Maritime+Business+Analyst+Internship"
+  },
+  {
+   "id": "R00309803",
+   "title": "Marketing Cloud Senior Analyst",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "technology-platforms"
+   ],
+   "business_area": "Song",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00309803_it&title=Marketing+Cloud+Senior+Analyst"
+  },
+  {
+   "id": "R00356720",
+   "title": "Marketing Senior Analyst",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "marketing-communication",
+    "corporate-functions"
+   ],
+   "business_area": "Corporate Functions",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00356720_it&title=Marketing+Senior+Analyst"
+  },
+  {
+   "id": "R00356807",
+   "title": "Marketing Specialist",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "marketing-communication",
+    "corporate-functions"
+   ],
+   "business_area": "Corporate Functions",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00356807_it&title=Marketing+Specialist"
+  },
+  {
+   "id": "13631146",
+   "title": "Model-Based System Engineer",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13631146_it&title=Model-Based+System+Engineer"
+  },
+  {
+   "id": "14571487",
+   "title": "MuleSoft Integration Developer / Consultant (AI & Intelligent Integration) Senior Analyst",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology",
+    "technology-platforms"
+   ],
+   "business_area": "Song",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14571487_it&title=MuleSoft+Integration+Developer+%2F+Consultant+%28AI+%26+Intelligent+Integration%29+Senior+Analyst"
+  },
+  {
+   "id": "R00340794",
+   "title": "Neodiplomato/a, neolaureato/a Area IT (Cat. Protette l. 68/99)",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Bologna",
+    "Cagliari",
+    "Napoli",
+    "Padova",
+    "Rende",
+    "Roma",
+    "Torino",
+    "Verona"
+   ],
+   "career_level": "Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "",
+   "area": [
+    "operations-delivery",
+    "security",
+    "technology",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00340794_it&title=Neodiplomato%2Fa%2C+neolaureato%2Fa+Area+IT+%28Cat.+Protette+l.+68%2F99%29"
+  },
+  {
+   "id": "R00355548",
+   "title": "Oracle Finance Senior Consultant",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "emerging-technology",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00355548_it&title=Oracle+Finance+Senior+Consultant"
+  },
+  {
+   "id": "R00279296",
+   "title": "PLM Specialist – Kubix / Lectra",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Napoli",
+    "Padova",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00279296_it&title=PLM+Specialist+%E2%80%93+Kubix+%2F+Lectra"
+  },
+  {
+   "id": "14811480",
+   "title": "Payroll Internship",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "operations-delivery"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14811480_it&title=Payroll+Internship"
+  },
+  {
+   "id": "14734561",
+   "title": "Pega Expert",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14734561_it&title=Pega+Expert"
+  },
+  {
+   "id": "R00299839",
+   "title": "Penetration Testing Expert",
+   "locations": [
+    "Milano",
+    "Bari",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "security",
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00299839_it&title=Penetration+Testing+Expert"
+  },
+  {
+   "id": "14835545",
+   "title": "Pharma Value Chain Transformation Manager",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14835545_it&title=Pharma+Value+Chain+Transformation+Manager"
+  },
+  {
+   "id": "14635504",
+   "title": "Planning & Expediting Associate Manager – Automotive After Sales",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "operations-delivery",
+    "industries"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14635504_it&title=Planning+%26+Expediting+Associate+Manager+%E2%80%93+Automotive+After+Sales"
+  },
+  {
+   "id": "R00344845",
+   "title": "Process Transformation & AI Reinvention Analyst",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344845_it&title=Process+Transformation+%26+AI+Reinvention+Analyst"
+  },
+  {
+   "id": "R00344836",
+   "title": "Process Transformation & AI Reinvention Consultant",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00344836_it&title=Process+Transformation+%26+AI+Reinvention+Consultant"
+  },
+  {
+   "id": "R00318349",
+   "title": "Professionista CSE - Coordinamento Sicurezza in Esecuzione  (Cat. Prot. L. 68/99)",
+   "locations": [
+    "Bologna",
+    "Rovigo"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00318349_it&title=Professionista+CSE+-+Coordinamento+Sicurezza+in+Esecuzione++%28Cat.+Prot.+L.+68%2F99%29"
+  },
+  {
+   "id": "14591588",
+   "title": "Professionista CSE – Coordinamento Sicurezza in Esecuzione",
+   "locations": [
+    "Bologna"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14591588_it&title=Professionista+CSE+%E2%80%93+Coordinamento+Sicurezza+in+Esecuzione"
+  },
+  {
+   "id": "R00361606",
+   "title": "Public Sector Delivery Lead",
+   "locations": [
+    "Padova"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00361606_it&title=Public+Sector+Delivery+Lead"
+  },
+  {
+   "id": "R00290028",
+   "title": "RAI Specialist",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "artificial-intelligence-ai-data-science"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00290028_it&title=RAI+Specialist"
+  },
+  {
+   "id": "13631145",
+   "title": "RAMS / ILS Engineer",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13631145_it&title=RAMS+%2F+ILS+Engineer"
+  },
+  {
+   "id": "R00348134",
+   "title": "Risk & Compliance Executive",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Senior Manager",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00348134_it&title=Risk+%26+Compliance+Executive"
+  },
+  {
+   "id": "14757811",
+   "title": "Robotics & Automation Consultant",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing"
+   ],
+   "business_area": "Operations",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14757811_it&title=Robotics+%26+Automation+Consultant"
+  },
+  {
+   "id": "14340828",
+   "title": "SAP ABAP Consultant",
+   "locations": [
+    "Padova"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Remote",
+   "area": [
+    "engineering-manufacturing",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14340828_it&title=SAP+ABAP+Consultant"
+  },
+  {
+   "id": "13981241",
+   "title": "SAP Analytics Cloud Planning Team Lead",
+   "locations": [
+    "Roma",
+    "Milano",
+    "Padova"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13981241_it&title=SAP+Analytics+Cloud+Planning+Team+Lead"
+  },
+  {
+   "id": "R00356725",
+   "title": "SAP Analytics Cloud e SAP Group Reporting Manager EMEA",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00356725_it&title=SAP+Analytics+Cloud+e+SAP+Group+Reporting+Manager+EMEA"
+  },
+  {
+   "id": "14258029",
+   "title": "SAP Ariba Expert",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14258029_it&title=SAP+Ariba+Expert"
+  },
+  {
+   "id": "13736499",
+   "title": "SAP Consultant per area Triveneto",
+   "locations": [
+    "Padova"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13736499_it&title=SAP+Consultant+per+area+Triveneto"
+  },
+  {
+   "id": "R00365601",
+   "title": "SAP Data & AI - Academy",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Padova"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology",
+    "cloud",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00365601_it&title=SAP+Data+%26+AI+-+Academy"
+  },
+  {
+   "id": "R00273427",
+   "title": "SAP EWM Expert",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Napoli",
+    "Padova",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "technology",
+    "engineering-manufacturing",
+    "operations-delivery",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00273427_it&title=SAP+EWM+Expert"
+  },
+  {
+   "id": "14473726",
+   "title": "SAP Enterprise Asset Management Consultant",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "Operations",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14473726_it&title=SAP+Enterprise+Asset+Management+Consultant"
+  },
+  {
+   "id": "R00295547",
+   "title": "SAP Finance Consultant",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Padova",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "program-project-management",
+    "software-engineering",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00295547_it&title=SAP+Finance+Consultant"
+  },
+  {
+   "id": "R00364315",
+   "title": "SAP HCM Senior Analyst",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00364315_it&title=SAP+HCM+Senior+Analyst"
+  },
+  {
+   "id": "R00365020",
+   "title": "SAP HCM Senior Consultant",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00365020_it&title=SAP+HCM+Senior+Consultant"
+  },
+  {
+   "id": "14731130",
+   "title": "SAP IAM & Field Service Management Expert",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14731130_it&title=SAP+IAM+%26+Field+Service+Management+Expert"
+  },
+  {
+   "id": "14177496",
+   "title": "SAP Logistic & Transportation Management Expert",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14177496_it&title=SAP+Logistic+%26+Transportation+Management+Expert"
+  },
+  {
+   "id": "R00292647",
+   "title": "SAP Master Data Governance Senior Analyst",
+   "locations": [
+    "Milano",
+    "Padova",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00292647_it&title=SAP+Master+Data+Governance+Senior+Analyst"
+  },
+  {
+   "id": "14715963",
+   "title": "SAP Security & GRC Consultant",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14715963_it&title=SAP+Security+%26+GRC+Consultant"
+  },
+  {
+   "id": "R00292937",
+   "title": "SAP Supply Chain Consultant",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Padova",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "technology",
+    "software-engineering",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00292937_it&title=SAP+Supply+Chain+Consultant"
+  },
+  {
+   "id": "R00339921",
+   "title": "SAP Supply Chain Senior Analyst",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Padova",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00339921_it&title=SAP+Supply+Chain+Senior+Analyst"
+  },
+  {
+   "id": "R00338858",
+   "title": "SCADA / EMS Specialist - Power Grid Automation",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing",
+    "industries"
+   ],
+   "business_area": "Operations",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00338858_it&title=SCADA+%2F+EMS+Specialist+-+Power+Grid+Automation"
+  },
+  {
+   "id": "R00292740",
+   "title": "Salesforce Analyst - Internship",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "software-engineering",
+    "technology",
+    "cloud"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00292740_it&title=Salesforce+Analyst+-+Internship"
+  },
+  {
+   "id": "R00290421",
+   "title": "Salesforce Developer",
+   "locations": [
+    "Roma",
+    "Milano"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "technology",
+    "software-engineering"
+   ],
+   "business_area": "Song",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00290421_it&title=Salesforce+Developer"
+  },
+  {
+   "id": "14211055",
+   "title": "Salesforce Technical Architect Specialist",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Remote",
+   "area": [
+    "software-engineering",
+    "technology",
+    "technology-platforms",
+    "industries"
+   ],
+   "business_area": "Song",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14211055_it&title=Salesforce+Technical+Architect+Specialist"
+  },
+  {
+   "id": "14236410",
+   "title": "Semiconductor Value Chain Transformation Manager",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14236410_it&title=Semiconductor+Value+Chain+Transformation+Manager"
+  },
+  {
+   "id": "14563608",
+   "title": "Senior Fire Protection Engineer",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14563608_it&title=Senior+Fire+Protection+Engineer"
+  },
+  {
+   "id": "14754585",
+   "title": "Service Delivery Associate Manager",
+   "locations": [
+    "Vergiate"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "On-Site",
+   "area": [
+    "operations-delivery"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14754585_it&title=Service+Delivery+Associate+Manager"
+  },
+  {
+   "id": "14612913",
+   "title": "Service Manager_Exp",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Associate Director",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "technology",
+    "cloud",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14612913_it&title=Service+Manager_Exp"
+  },
+  {
+   "id": "14418860",
+   "title": "Software Engineer - Embedded/Avionics",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Associate Manager",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14418860_it&title=Software+Engineer+-+Embedded%2FAvionics"
+  },
+  {
+   "id": "R00279633",
+   "title": "Stage in Ingegneria, AI e Automazione Industriale",
+   "locations": [
+    "Milano",
+    "Napoli",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology",
+    "consulting",
+    "engineering-manufacturing",
+    "product-development",
+    "program-project-management",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00279633_it&title=Stage+in+Ingegneria%2C+AI+e+Automazione+Industriale"
+  },
+  {
+   "id": "R00352478",
+   "title": "Stage in area Accenture Song",
+   "locations": [
+    "Milano",
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "sales-account-management",
+    "artificial-intelligence-ai-data-science",
+    "technology",
+    "consulting",
+    "strategy",
+    "marketing-communication",
+    "creative-design",
+    "product-development",
+    "engineering-manufacturing",
+    "program-project-management",
+    "customer-user-experience"
+   ],
+   "business_area": "Song",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00352478_it&title=Stage+in+area+Accenture+Song"
+  },
+  {
+   "id": "R00362413",
+   "title": "Stage in area Industry&Process",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "",
+   "area": [
+    "operations-delivery",
+    "marketing-communication",
+    "program-project-management",
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00362413_it&title=Stage+in+area+Industry%26Process"
+  },
+  {
+   "id": "14797564",
+   "title": "Supply Chain & Expediting Internship",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "operations-delivery",
+    "industries"
+   ],
+   "business_area": "Industry X",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14797564_it&title=Supply+Chain+%26+Expediting+Internship"
+  },
+  {
+   "id": "14784343",
+   "title": "Supply Chain & Fulfillment Transformation Consultant",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14784343_it&title=Supply+Chain+%26+Fulfillment+Transformation+Consultant"
+  },
+  {
+   "id": "14784444",
+   "title": "Supply Chain & Operations Planning Transformation Consultant",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14784444_it&title=Supply+Chain+%26+Operations+Planning+Transformation+Consultant"
+  },
+  {
+   "id": "14784284",
+   "title": "Supply Chain & Planning Transformation Manager",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "industries"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14784284_it&title=Supply+Chain+%26+Planning+Transformation+Manager"
+  },
+  {
+   "id": "14795241",
+   "title": "Supply Chain & Procurement Transformation Manager",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14795241_it&title=Supply+Chain+%26+Procurement+Transformation+Manager"
+  },
+  {
+   "id": "14784274",
+   "title": "Supply Chain Fulfillment Manager",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14784274_it&title=Supply+Chain+Fulfillment+Manager"
+  },
+  {
+   "id": "14876184",
+   "title": "Supply Chain Planning Delivery Lead",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Senior Manager",
+   "seniority": "Senior Level",
+   "years": "12-14",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "program-project-management"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14876184_it&title=Supply+Chain+Planning+Delivery+Lead"
+  },
+  {
+   "id": "14740563",
+   "title": "System Engineer",
+   "locations": [
+    "Torino"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "software-engineering",
+    "technology"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14740563_it&title=System+Engineer"
+  },
+  {
+   "id": "R00363071",
+   "title": "Systems Engineering Academy",
+   "locations": [
+    "Roma",
+    "Milano",
+    "Napoli",
+    "Torino"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00363071_it&title=Systems+Engineering+Academy"
+  },
+  {
+   "id": "R00356463",
+   "title": "Talent Transformation Analyst - Intern",
+   "locations": [
+    "Milano",
+    "Bologna",
+    "Padova",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "New Associate",
+   "seniority": "Early Career",
+   "years": "0-2",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "artificial-intelligence-ai-data-science",
+    "technology",
+    "operations-delivery",
+    "consulting",
+    "software-engineering"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00356463_it&title=Talent+Transformation+Analyst+-+Intern"
+  },
+  {
+   "id": "13930152",
+   "title": "Technical Specialist – Certificazione e Omologazione Sistemi Terrestri",
+   "locations": [
+    "Roma"
+   ],
+   "career_level": "Senior Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "On-Site",
+   "area": [
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=13930152_it&title=Technical+Specialist+%E2%80%93+Certificazione+e+Omologazione+Sistemi+Terrestri"
+  },
+  {
+   "id": "R00288639",
+   "title": "Technology Strategy & Advisory - Internship",
+   "locations": [
+    "Milano",
+    "Roma"
+   ],
+   "career_level": "Analyst",
+   "seniority": "Early Career",
+   "years": "2-5",
+   "education": [
+    "Some High School",
+    "High School Diploma/GED"
+   ],
+   "remote": "",
+   "area": [
+    "technology",
+    "consulting",
+    "strategy"
+   ],
+   "business_area": "Strategy & Consulting",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00288639_it&title=Technology+Strategy+%26+Advisory+-+Internship"
+  },
+  {
+   "id": "R00326255",
+   "title": "Third Party Risk Management Consultant",
+   "locations": [
+    "Milano"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00326255_it&title=Third+Party+Risk+Management+Consultant"
+  },
+  {
+   "id": "14867644",
+   "title": "Transportation Infrastructure Reinvention Manager",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14867644_it&title=Transportation+Infrastructure+Reinvention+Manager"
+  },
+  {
+   "id": "14766312",
+   "title": "Value Chain Transformation Manager – Automotive Manufacturing & Quality",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Manager",
+   "seniority": "Senior Level",
+   "years": "10-12",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "Hybrid Eligible",
+   "area": [
+    "consulting",
+    "engineering-manufacturing"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=14766312_it&title=Value+Chain+Transformation+Manager+%E2%80%93+Automotive+Manufacturing+%26+Quality"
+  },
+  {
+   "id": "R00333124",
+   "title": "WMS Functional Consultant - Logistics & Warehouse Management",
+   "locations": [
+    "Milano",
+    "Roma",
+    "Torino"
+   ],
+   "career_level": "Team Lead/Consultant",
+   "seniority": "Mid-Level",
+   "years": "5-10",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "remote": "",
+   "area": [
+    "consulting",
+    "engineering-manufacturing",
+    "technology-platforms"
+   ],
+   "business_area": "",
+   "url": "https://www.accenture.com/it-it/careers/jobdetails?id=R00333124_it&title=WMS+Functional+Consultant+-+Logistics+%26+Warehouse+Management"
+  }
+ ]
+}
