@@ -14,8 +14,8 @@ Formazione e contributi di ricerca in telecomunicazioni, elaborazione del segnal
 
 | Titolo | Istituzione | Area di Studio | Anno |
 | --- | --- | --- | --- |
-| Laurea Magistrale | Università degli Studi di Genova | Multimedia Signal Processing & Telecommunications Networks | 2013 |
-| Laurea Triennale | Università degli Studi di Genova | Ingegneria delle Telecomunicazioni | 2010 |
+| Laurea Magistrale | Università degli Studi di Genova | Multimedia Signal Processing & Telecommunications Networks | 2015 |
+| Laurea Triennale | Università degli Studi di Genova | Ingegneria delle Telecomunicazioni | 2012 |
 
 ### Curriculum Magistrale
 

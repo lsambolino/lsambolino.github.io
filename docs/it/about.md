@@ -10,8 +10,8 @@ Il mio percorso è iniziato in ambito accademico — laurea magistrale in elabor
 
 ## Percorso professionale
 
-### Cloud Consultant @ Accenture Spa
-**Oggi**
+### Infra Transformation Associate Manager @ Accenture
+**Giu 2026 – oggi** • in precedenza Cloud Consultant, Giu 2018 – Giu 2026
 
 Ambienti cloud enterprise end to end — progettazione, realizzazione, delivery, gestione. Nel quotidiano mi occupo di:
 - Orchestrazione container con Kubernetes e OpenShift
@@ -19,10 +19,10 @@ Ambienti cloud enterprise end to end — progettazione, realizzazione, delivery,
 - Pratiche di Site Reliability Engineering (SRE)
 - Architetture multi-cloud (AWS, Azure, GCP)
 
-### Technical Director, poi IT Solutions Manager @ Huawei Technologies
-**2015 – 2018** • Milano e Roma
+### Technical Engineer, poi IT Solutions Manager @ Huawei Technologies
+**2016 – 2018** • Milano e Roma
 
-Installazione e commissioning di soluzioni datacenter cloud on-prem per clienti enterprise, prima come Technical Director, poi come IT Solutions Manager facendo da ponte tra requisiti dei clienti e solution engineering.
+Installazione e commissioning di soluzioni datacenter cloud on-prem per clienti enterprise, prima come Technical Engineer su progetti di installazione e commissioning, poi come IT Solutions Manager facendo da ponte tra requisiti dei clienti e solution engineering.
 
 ### Ricerca
 
@@ -31,14 +31,14 @@ All'inizio della carriera ho pubblicato lavori su Green Precision Time Protocol,
 ## Formazione
 
 **Laurea magistrale — Elaborazione di segnali multimediali e reti di telecomunicazioni**  
-Signal processing, protocolli di rete e sistemi distribuiti.
+Università degli Studi di Genova, 2015. Signal processing, protocolli di rete e sistemi distribuiti.
 
 **Laurea triennale — Ingegneria delle telecomunicazioni**  
-Principi di telecomunicazioni, architetture di rete e progettazione di sistemi.
+Università degli Studi di Genova, 2012. Principi di telecomunicazioni, architetture di rete e progettazione di sistemi.
 
 ## Certificazioni
 
-CKA (CNCF), SRE Foundation (DevOps Institute), ITIL 5, AWS / Azure / GCP, VMware NSX-T.  
+CKA (CNCF), Red Hat Certified OpenShift Administrator (EX280), SRE Foundation e ITIL Foundation v5 (PeopleCert), Microsoft Certified: Azure Fundamentals.  
 [Tutte le certificazioni →](/it/certifications)
 
 ## Fuori dal lavoro

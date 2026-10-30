@@ -25,11 +25,11 @@ Certificazioni: Certified Kubernetes Administrator (CKA) — CNCF; Red Hat Certi
 
 ## Piattaforme Cloud
 
-**Amazon Web Services** — EC2, ECS, EKS, VPC, Route53, CloudFront, S3, RDS, DynamoDB, IAM, CloudWatch. AWS Certified.
+**Amazon Web Services** — EC2, ECS, EKS, VPC, Route53, CloudFront, S3, RDS, DynamoDB, IAM, CloudWatch. Certificazione: AWS Certified Cloud Practitioner (2019–2022).
 
-**Microsoft Azure** — AKS, Virtual Networks, App Gateway, Azure DevOps, Azure Monitor, Log Analytics. Azure Certified.
+**Microsoft Azure** — AKS, Virtual Networks, App Gateway, Azure DevOps, Azure Monitor, Log Analytics. Certificazione: Microsoft Certified: Azure Fundamentals (AZ-900).
 
-**Google Cloud Platform** — GKE, Compute Engine, Cloud Run, Cloud Storage, BigQuery, Stackdriver, Cloud Build. GCP Certified.
+**Google Cloud Platform** — GKE, Compute Engine, Cloud Run, Cloud Storage, BigQuery, Stackdriver, Cloud Build. Corso: Google Cloud Fundamentals — Core Infrastructure (Coursera, 2020).
 
 ## Infrastructure as Code & Automazione
 
@@ -45,7 +45,7 @@ Certificazioni: Certified Kubernetes Administrator (CKA) — CNCF; Red Hat Certi
 
 **Identity & Security** — OAuth2/OIDC, TLS/PKI, RBAC.
 
-Certificazioni: VMware NSX-T Data Center; ITIL Foundation (Version 5).
+Certificazione: ITIL Foundation (Version 5) — PeopleCert. Corso: Networking and Security Architecture with VMware NSX (Coursera, 2019).
 
 ## Osservabilità & Monitoring
 
@@ -69,7 +69,7 @@ Certificazioni: VMware NSX-T Data Center; ITIL Foundation (Version 5).
 
 ## Metodologie
 
-- Site Reliability Engineering (SRE)
+- Site Reliability Engineering (SRE) — SRE Foundation (PeopleCert, 2026)
 - DevOps & Agile
 - GitOps
 - Infrastructure as Code

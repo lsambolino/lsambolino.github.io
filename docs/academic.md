@@ -13,8 +13,8 @@ Education and research contributions in telecommunications, multimedia signal pr
 
 | Degree | Institution | Field of Study | Year |
 | --- | --- | --- | --- |
-| Master's Degree | Università degli Studi di Genova | Multimedia Signal Processing & Telecommunications Networks | 2013 |
-| Bachelor's Degree | Università degli Studi di Genova | Telecommunications Engineering | 2010 |
+| Master's Degree | Università degli Studi di Genova | Multimedia Signal Processing & Telecommunications Networks | 2015 |
+| Bachelor's Degree | Università degli Studi di Genova | Telecommunications Engineering | 2012 |
 
 ### Master's Degree Curriculum
 

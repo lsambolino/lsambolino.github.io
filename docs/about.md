@@ -9,8 +9,8 @@ My journey started in academia — a Master's in multimedia signal processing an
 
 ## Professional Journey
 
-### Cloud Consultant @ Accenture Spa
-**Present**
+### Infra Transformation Associate Manager @ Accenture
+**Jun 2026 – Present** • previously Cloud Consultant, Jun 2018 – Jun 2026
 
 Enterprise cloud environments end to end — design, build, deliver, operate. Day-to-day I focus on:
 - Container orchestration with Kubernetes and OpenShift
@@ -18,10 +18,10 @@ Enterprise cloud environments end to end — design, build, deliver, operate. Da
 - Site Reliability Engineering (SRE) practices
 - Multi-cloud architectures (AWS, Azure, GCP)
 
-### Technical Director, then IT Solutions Manager @ Huawei Technologies
-**2015 – 2018** • Milan and Rome
+### Technical Engineer, then IT Solutions Manager @ Huawei Technologies
+**2016 – 2018** • Milan and Rome
 
-Installation and commissioning of on-prem cloud datacenter solutions for enterprise customers, first as Technical Director, then as IT Solutions Manager bridging customer requirements and solution engineering.
+Installation and commissioning of on-prem cloud datacenter solutions for enterprise customers, first as Technical Engineer on installation and commissioning projects, then as IT Solutions Manager bridging customer requirements and solution engineering.
 
 ### Research
 
@@ -30,14 +30,14 @@ Earlier in my career I published work on Green Precision Time Protocol implement
 ## Education
 
 **MSc — Multimedia Signal Processing & Telecommunications Networks**  
-Signal processing, network protocols, and distributed systems.
+Università degli Studi di Genova, 2015. Signal processing, network protocols, and distributed systems.
 
 **BSc — Telecommunications Engineering**  
-Telecommunications principles, network architectures, and system design.
+Università degli Studi di Genova, 2012. Telecommunications principles, network architectures, and system design.
 
 ## Certifications
 
-CKA (CNCF), SRE Foundation (DevOps Institute), ITIL 5, AWS / Azure / GCP, VMware NSX-T.  
+CKA (CNCF), Red Hat Certified OpenShift Administrator (EX280), SRE Foundation and ITIL Foundation v5 (PeopleCert), Microsoft Certified: Azure Fundamentals.  
 [View all certifications →](/certifications)
 
 ## Outside Work
