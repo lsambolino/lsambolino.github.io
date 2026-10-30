@@ -15,8 +15,6 @@ en:
     url: /framework/
   - label: Blog
     url: /blog/
-  - label: Referrals
-    url: /referrals/
   - label: Contact
     url: /contact/
 
@@ -37,7 +35,5 @@ it:
     url: /it/framework/
   - label: Blog
     url: /it/blog/
-  - label: Referral
-    url: /it/referrals/
   - label: Contatti
     url: /it/contact/

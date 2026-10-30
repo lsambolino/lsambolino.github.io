@@ -11,7 +11,6 @@ I'm always interested in discussing cloud architecture, DevOps practices, Kubern
 
 - **GitHub** — [@lsambolino](https://github.com/lsambolino) — open-source contributions and code.
 - **LinkedIn** — [lsambolino](https://www.linkedin.com/in/lsambolino).
-- **Thinking of joining Accenture?** I can submit an internal referral — read [how it works](/referrals/) first, because applying on your own before the referral is submitted makes it impossible to attach.
 
 ## What I Can Help With
 

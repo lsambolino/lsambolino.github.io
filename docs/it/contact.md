@@ -12,7 +12,6 @@ Mi interessa confrontarmi su architetture cloud, pratiche DevOps, sfide Kubernet
 
 - **GitHub** — [@lsambolino](https://github.com/lsambolino) — contributi open-source e repository.
 - **LinkedIn** — [lsambolino](https://www.linkedin.com/in/lsambolino).
-- **Vuoi entrare in Accenture?** Posso presentare un referral interno: leggi prima [come funziona](/it/referrals/), perché candidarsi da soli prima dell'invio rende impossibile associare il referral.
 
 ## Come posso aiutarti
 
